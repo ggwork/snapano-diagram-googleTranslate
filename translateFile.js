@@ -1,23 +1,21 @@
-import { createDataFilePromise, getAllFilesByFloderPath } from './lib/utils'
 const utils = require('./lib/utils')
+const path = require('path')
+const fs = require('fs')
+// 输出文件路径
 const outputPath = './translateResult'
 const inputPath = './data'
-
-const database_path = 'firestore.json';
-
 //translate api key
-const path = 'google-api-key.json';
 
+const googleKeyPath = 'google-api-key.json';
 const projectId = 'logical-hallway-352208';
 const location = 'global';
+const database_path = 'firestore.json';
 
 
 
 const { TranslationServiceClient } = require('@google-cloud/translate');
-// [END translate_v3_translate_text_0]
 
-
-const translationClient = new TranslationServiceClient({ keyFilename: path });
+const translationClient = new TranslationServiceClient({ keyFilename: googleKeyPath });
 
 
 
@@ -34,8 +32,6 @@ const db = new Firestore({
 
 
 
-
-const fs = require('fs')
 
 function redDetailFile(filepath) {
 
@@ -154,7 +150,6 @@ function walkSyncFolder(currentDirPath) {
 }
 
 async function translateWord(textString) {
-
   var request = {
     parent: `projects/${projectId}/locations/${location}`,
     contents: [textString],
@@ -176,10 +171,38 @@ async function translateWord(textString) {
 
 
 
+function getFileInfo(filePath) {
+  let fileName = path.basename(filePath)
+  let dirName = path.dirname(filePath)
+  let fileOutDir = path.join(outputPath, path.basename(dirName))
+  // 文件路径、文件名、文件夹路径、输出文件夹路径
+  return {
+    filePath,
+    fileName,
+    dirName,
+    fileOutDir
+  }
+}
+
+// const fileList = await utils.getAllFilesByFloderPath(inputPath)
+// const fileObjList = fileList.map(filePath => {
+//   let fileName = path.basename(filePath)
+//   let dirName = path.dirname(filePath)
+//   let fileOutPath = path.join(outputPath, path.basename(dirName))
+//   return {
+//     filePath,
+//     fileName,
+//     dirName,
+//     fileOutPath
+//   }
+// })
+
 async function translateOneFile(filePath) {
   const content = fs.readFileSync(filePath)
-  const fileList = await getAllFilesByFloderPath(inputPath)
-  console.log('fileList:', fileList)
+
+  let fileInfo = getFileInfo(filePath)
+  await utils.createDataFilePromise(fileInfo.fileName, content, fileInfo.fileOutDir)
+  // console.log('fileObjList:', fileObjList.slice(0, 2))
   // console.log('content:', content.toString())
 }
 
