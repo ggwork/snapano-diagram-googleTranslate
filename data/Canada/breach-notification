@@ -1,0 +1,30 @@
+Currently, PIPEDA and PIPA Alberta are the only Canadian Privacy Statutes ‎with breach notification requirements.‎ Bill 64 added breach notification requirements to the Quebec Privacy Act, which will come into force on September 22, 2022.
+In Alberta, an organization having personal information under its control must, without ‎unreasonable delay, provide notice to the Commissioner of any incident involving the ‎loss of or unauthorized access to or disclosure of&nbsp; personal information where a ‎reasonable person would consider that there exists a real risk of significant harm to an ‎individual as a result.‎
+Notification to the Commissioner must be in writing and include:‎
+
+A description of the circumstances of the loss or unauthorized access or disclosure
+The date or time period during which the loss or unauthorized access or disclosure ‎occurred
+A description of the personal information involved in the loss or unauthorized access ‎or disclosure
+An assessment of the risk of harm to individuals as a result of the loss or ‎unauthorized access or disclosure
+An estimate of the number of individuals to whom there is a real risk of significant ‎harm as a result of the loss or unauthorized access or disclosure
+A description of any steps the organization has taken to reduce the risk of harm to ‎individuals
+A description of any steps the organization has taken to notify individuals of the loss ‎or unauthorized access or disclosure, and
+The name and contact information for a person who can answer, on behalf of the ‎organization, the Commissioner’s questions about the loss of unauthorized ‎access or disclosure
+
+Where an organization suffers a loss of or unauthorized access to or disclosure of ‎personal information as to which the organization is required to provide notice to the ‎Commissioner, the Commissioner may require the organization to notify the individuals ‎to whom there is a real risk of significant harm.&nbsp; This notification must be given directly ‎to the individual (unless specified otherwise by the Commissioner) and include:‎
+
+A description of the circumstances of the loss or unauthorized access or disclosure
+The date on which or time period during which the loss or unauthorized access or ‎disclosure occurred
+A description of the personal information involved in the loss or unauthorized access ‎or disclosure
+A description of any steps the organization has taken to reduce the risk of harm, ‎and
+Contact information for a person who can answer, on behalf of the organization, ‎questions about the loss or unauthorized access or disclosure
+
+The breach notification provisions under PIPEDA are very similar to the breach ‎notification provisions under PIPA Alberta. The main difference is that PIPEDA requires organizations to notify both the affected individuals and the federal regulator if the breach creates a real risk of significant harm to the individuals (whereas PIPA Alberta requires the initial notice only to the regulator, and then to the individuals if the regulator requires it. In practice, many organizations notify affected Albertans regardless of whether the Alberta Commissioner requires (and the Commissioner typically does require it for most reported breaches in any event). Further, under PIPEDA, organizations must also ‎keep a record of ALL information security breaches, even those which do not meet the ‎risk threshold of a “real risk of significant harm.”‎
+The new Quebec Privacy Act, as modified by Bill 64, will introduce a number of new obligations in ‎connection with “confidentiality incidents”, which are defined as unauthorized access, use, or communication of personal ‎information, or the loss of such information‎. These include:‎
+
+A general obligation to ‎prevent and remedy security incidents
+The obligation to notify the CAI and the person affected ‎whenever the incident presents a risk of ‎‎“serious ‎injury.” Factors to consider when evaluating the ‎risk of serious injury include the sensitivity of the ‎information ‎concerned, the anticipated consequences of the ‎use of the information and the likelihood ‎that the information will ‎be used for harmful purposes, and
+The obligation on to keep a register of security ‎incidents, with the CAI having extensive audit rights for the CAI
+Last modified 24 Jan 2022
+				
+			

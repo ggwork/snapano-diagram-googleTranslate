@@ -1,0 +1,41 @@
+If a data controller wishes to share, disclose or otherwise transfer an individual's personal information to a third party (including group companies), the data controller must:
+
+inform the data subject of the purposes of the sharing, disclosure or transfer of the personal information and the types of data recipient, and obtain prior express consent from the data subject;
+perform a personal information impact assessment (PIIA), and take effective measures to protect the data subjects according to the assessment results (e.g. putting in place a data transfer agreement or similar contractual protections) (see&nbsp;Collection &amp; Processing);
+record accurately and keep the information in relation to the sharing, disclosure or transfer of the personal information, including the date, scale, purpose and basic information of the data recipient of the sharing or assigning;
+ensure personal information is only transferred where required for processing purposes;
+not share or transfer any personal biometric information or other types of particularly sensitive personal information where prohibited under relevant laws or regulations; and
+ensure contractual measures are entered into to require the data processor to comply or assist the data controller in complying with obligations under data protection laws.
+
+Cross-border transfers
+The PIPL provided helpful clarification (after years of uncertainty) on the issue of cross-border data transfers and data localization in the PRC. In short, most personal information can be transferred or accessed outside of the PRC providing the following compliance steps are taken:
+
+one of the following criteria is fulfilled:
+
+the organisation has passed a CAC security evaluation;
+the organisation has obtained certification from a CAC-accredited agency;
+the organisation has put in place CAC standard contractual clauses (not yet published) with the data recipient – likely to be most relied upon in practice; or
+for compliance with laws and regulations or other requirements imposed by the CAC;
+
+
+the data controller has adopted necessary measures to ensure the data recipient’s data processing activities comply with standards comparable to those set out in the PIPL. In practice this means initial due diligence, sufficient contractual protections and ongoing monitoring etc.;
+notice and&nbsp;separate, explicit consent has been given/obtained (see above) from the data subject (see Collection &amp; Processing); and
+a PIIA has been conducted (see Collection &amp; Processing).
+
+The PIPL does not include a specific requirement to keep copies of personal information in the PRC, but the regulators’ expectations in this regard may remain.
+However, certain personal information (and non-personal data) must still remain in (and cannot be accessed outside of) the PRC. This includes (this is not an exhaustive list):
+
+personal information processed by critical information infrastructure operators (CIIOs), unless a CAC-conducted security assessment has been completed;
+personal information processed by data controllers above a threshold/volume to be identified by the CAC (not yet finalised), unless a CAC-conducted security assessment has been completed;
+certain data under industry-specific regulations (such as in the financial services sector and genetic health data); and
+certain restricted data categories (such as “state secrets”, some “important data”, geolocation and online mapping data etc.).
+
+Lingering uncertainty remains about the need for a CAC-conducted security assessment in certain situations. The Draft Guidelines on Overseas Transfer (published in November 2021) proposes a host of scenarios where this may be the case, including: personal information processed in the context of certain listing/corporate/restructuring activities; and processing of large volumes of personal information and/or sensitive personal information. &nbsp;The Draft Network Data Security Management Regulation also proposes introducing annual data overseas transfer security report to the CAC as well as other record keeping requirements. As such, organizations should keep developments under review. &nbsp;
+Finally, according to the PIPL:
+
+a new publicly-available entity list may be published, listings foreign organisations to whom local PRC organisations may not transfer personal information, where such transfer may harm national security or public interest;
+data controllers must not provide personal information stored within China to overseas legal or enforcement authorities unless approval is obtained from a designated Chinese authority.&nbsp; It remains unclear whether this extends to, say, requests from overseas industry regulators; and
+the PIPL clarifies that Chinese authorities may provide personal information stored within China to overseas legal or enforcement authorities upon request, if and to the extent that there are international treaties or regulations in place to maintain fairness and for mutual benefit.
+Last modified 27 Jan 2022
+				
+			

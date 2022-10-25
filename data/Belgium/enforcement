@@ -1,0 +1,49 @@
+Fines
+The GDPR empowers supervisory authorities to impose fines of up to 4% of annual worldwide turnover, or EUR 20 million (whichever is higher).
+It is the intention of the European Commission that fines should, where appropriate, be imposed by reference to the revenue of an economic undertaking rather than the revenues of the relevant controller or processor. Recital 150 of the GDPR states that 'undertaking' should be understood in accordance with Articles 101 and 102 of the Treaty on the Functioning of the European Union, which prohibit anti-competitive agreements between undertakings and abuse of a dominant position. Unhelpfully, the Treaty does not define ‘undertaking’ and the extensive case-law is not entirely straightforward, with decisions often turning on the specific facts of each case. However, in many competition cases, group companies have been regarded as part of the same undertaking. The assessment will turn on the facts of each case, and the first test cases under the GDPR will need to be scrutinised carefully to understand the interpretation of ‘undertaking’. Under EU competition law case-law, there is also precedent for regulators to impose joint and several liability on parent companies for fines imposed on those subsidiaries in some circumstances (broadly where there is participation or control), so-called "look through" liability. Again, it remains to be seen whether there will be a direct read-across of this principle into GDPR enforcement.
+Fines are split into two broad categories. The highest fines (Article 83(5)) of up to EUR 20 million or, in the case of an undertaking, up to 4% of total worldwide turnover of the preceding year, whichever is higher, apply to infringement of:
+
+the basic principles for processing including conditions for consent;
+data subjects’ rights;
+international transfer restrictions;
+any obligations imposed by Member State law for special cases such as processing employee data; and
+certain orders of a supervisory authority.
+
+The lower category of fines (Article 83(4)) of up to EUR 10 million or, in the case of an undertaking, up to 2% of total worldwide turnover of the preceding year, whichever is the higher, apply to infringement of:
+
+obligations of controllers and processors, including security and data breach notification obligations;
+obligations of certification bodies; and
+obligations of a monitoring body.
+
+Supervisory authorities are not required to impose fines but must ensure in each case that the sanctions imposed are effective, proportionate and dissuasive (Article 83(1)).
+Fines can be imposed in combination with other sanctions.
+Investigative and corrective powers
+Supervisory authorities also enjoy wide investigative and corrective powers (Article 58) including the power to undertake on-site data protection audits and the power to issue public warnings, reprimands and orders to carry out specific remediation activities.
+Right to claim compensation
+The GDPR makes specific provision for individuals to bring private claims against controllers and processors:
+
+any person who has suffered "material or non-material damage" as a result of a breach of the GDPR has the right to receive compensation (Article 82(1)) from the controller or processor. The inclusion of “non-material” damage means that individuals will be able to claim compensation for distress even where they are not able to prove financial loss.
+data subjects have the right to mandate a consumer protection body to exercise rights and bring claims on their behalf (Article 80).
+
+Individuals also enjoy the right to lodge a complaint with a supervisory authority (Article 77). 
+All natural and legal persons, including individuals, controllers and processors, have the right to an effective judicial remedy against a decision of a supervisory authority concerning them or for failing to make a decision (Article 78).
+Data subjects enjoy the right to an effective legal remedy against a controller or processor (Article 79).In addition to the GDPR, the Data Protection Act introduces a specific procedure for actions for injunctions that can be initiated by the data subject or by the Data Protection Authority (DPA)1. These claims should be brought before the President of the Court of First Instance except when the personal data is processed in criminal investigations or procedures2. There is no single court territorially competent to hear these claims3.&nbsp;
+The Data Protection Act also contains a legal basis that allows a body, organisation or non-profit organisation to represent the data subject upon its request when it:&nbsp;
+
+was founded in accordance with Belgian law
+has legal personality
+has statutory objectives of public interest
+has been active in the area of the protection of personal data for at least 3 years4&nbsp;
+
+The DPA can impose administrative fines under article 83 of the GDPR5, but public authorities, their agents and &nbsp;authorised representatives are exempted insofar they are not offering goods or services on the market6. A supervisory authority can exercise the corrective measures set out in article 58.2 GDPR but with regard public authorities, only over the categories enumerated in the Data Protection Act7.&nbsp;
+Depending on the infringement and the infringer, the controller, processor, competent public &nbsp;authority or their agent can be subjected to criminal sanctions, such as criminal fines between 800 EUR – 160.000 EUR and a publication of the judgement8.&nbsp;
+The DPA consists of 6 different Committees. The Inspection Committee of the DPA enjoys investigation powers, such as to identify persons, interview persons, conduct written interrogations, conduct on-site investigations, consult information systems and copy the data they contain, consult information electronically, seize or seal goods or computer systems and demand the identification of the subscriber or the normal user of an electronic communication service or of the electronic means of communication used9. Additionally, the inspector-general and the inspectors of the inspection committee may order the temporary suspension, restriction or freezing of the data processing activities that are the subject of an investigation if this is necessary to avoid a serious, immediate and difficult to repair disadvantage.10&nbsp;They can also request further information11.&nbsp;
+The Litigation Chamber can inter alia follow-up on a complaint but also propose a settlement, formulate warnings and reprimands, order compliance with data subjects’ requests to exercise their rights, order the suspension of cross-border data flows and can also impose periodic penalty payments and/or administrative fines12.
+Specific provisions according to Art. 85 to 87 and Art. 89 GDPR
+The legislator has made use of the opportunity offered by the GDPR to provide exemptions or derogations from certain&nbsp;obligations when the processing is carried out for journalistic purposes and the purposes of academic, artistic or literary&nbsp;expression. For those purposes, the Data Protection Act exempts the controller not only from respecting certain data subjects’ rights under the GDPR but also some obligations of the controller (e.g. notification in case of breaches, transfer requirements, etc) and the investigative powers of the DPA13.&nbsp;
+The Data Protection Act also introduces two regimes for the derogations relating to the processing for archiving, scientific or historical research purposes or statistical purposes:&nbsp;
+
+general safeguards requiring among others register, information14, contractual15&nbsp;and security requirements, or
+compliance with a code of conduct16&nbsp;
+
+The Data Protection Act does not include other derogations relating to employment.

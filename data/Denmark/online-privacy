@@ -1,0 +1,46 @@
+Traffic data
+Traffic data qualifies as personal data. Providers of telecommunication services may collect and use the following traffic data to the following extent:
+
+the number or other identification of the lines in question or of the terminal
+authorization codes, additionally the card number when customer cards are used
+location data when mobile handsets are used
+the beginning and end of the connection, indicated by date and time and, where relevant to the charges, the volume of data transmitted
+the telecommunications service used by the user
+the termination points of fixed connections, the beginning and end of their use, indicated by date and time and, where relevant to the charges, the volume of data transmitted, and
+any other traffic data required for setup and maintenance of the telecommunications connection and for billing purposes.
+
+Stored traffic data may be used after the termination of a connection only where required to set up a further connection, for billing purposes or where the user has requested a connection overview.
+The service provider may collect and use the customer data and traffic data of subscribers and users in order to detect, locate and eliminate faults and malfunctions in telecommunications systems. This applies also to faults that can lead to a limitation of availability of information and communications systems or that can lead to an unauthorized access of telecommunications and data processing systems of the users.
+Otherwise, traffic data must be erased by the service provider without undue delay following termination of the connection.
+Service providers have to inform the users immediately, if any faults of data procession systems of the users become known. Furthermore the service provider has to inform the users about measures for detecting and rectifying faults.
+Location Data
+Location Data qualifies as personal data. This data may only be processed as required for the provision of requested services and is subject to prior information of the user. For all other purposes, the user’s informed consent must be obtained. According to Section 4a BDSG, 13 German Telemedia Act (TMG) this means that:
+
+the user’s consent must be intentional, informed and clear. For this purpose the user must be informed on the type, the scope, the location and the purpose of data collection, processing and use including any forwarding of data to third parties
+the user’s consent must be recorded properly
+the user must be able to access the content of his consent declaration any time. It is sufficient that such information is provided upon the user's request
+the user’s consent must be revocable at all times with effect for the future.
+
+Users must always be informed of the use of cookies in a privacy notice. Cookies may generally be used if they are required in order to perform the services requested by the user. Otherwise, users must be provided with an opt-out mechanism. For this purpose, information on the use of cookies together with a link on how to adjust browser settings in order to prevent future use is sufficient.
+Germany has not yet taken any measures to implement the e-privacy directive. However, in February 2014 the German Federal Ministry of Economic declared that the European Commission considers the Cookie Directive as implemented in Germany. However, since the European Commission´s exact interpretation is not known, a final official clarification is awaited. It therefore remains to be seen whether an active opt-in,&nbsp;eg, by clicking on a pop-up screen will be required in the future.
+Different rules apply in the case of tracking technologies which collect and store a user’s IP address. Since IP addresses qualify as personal data, their processing for tracking and marketing services requires active opt-in consent.Directive 2009/136/EC (the ePrivacy Directive) was among other things also implemented in the Danish Act on Electronic Communications Services and Networks which came into force on May 25,&nbsp;2011 in accordance with the implementation deadline in the Directive. In accordance with this act, the Danish Parliament adopted the Danish Executive Order on Electronic Communications Services and Networks which came into force on May 25,&nbsp;2018 (the ‘Cookie Order’).
+The Cookie Order should be read in the light of GDPR, where the rules regulate collection of data in a broader sense, not considering whether such information may be used to identify a natural person.
+Under the “Cookie Order” the use of cookies requires a consent. The consent must be freely given and specific. However, this does not imply that consent must be obtained each time a cookie is used but a user must be given an option. Furthermore, the consent must be informed which implies that a user must receive information about the consequences of consenting. To meet the information requirement, one must:&nbsp;
+
+Provide the information in a clear and explicit language, that is easy to understand or a similar imagery that is easy to understand, e.g. pictograms
+Explain the purpose of using cookies
+Tell the users who is behind the cookies used – this may be the website owner or a third party
+Inform the user how to give consent or reject the use of cookies
+Explain how the user can withdraw his or her consent
+State the duration of the cookies (expiry date)&nbsp;
+
+Finally, the consent must be a clear indication of the user’s wishes, which entails meeting the following requirements:&nbsp;
+
+The user must be able to consent or refuse to consent to the use of cookies
+The user must be able to withdraw a previously given consent
+The user should easily be able to find further information about the use of cookies on the website
+The consent must be linked to the purpose for which the data collection is to be used&nbsp;
+
+Previously, the use of a homepage after having received relevant information could (to some extent) considered to be a valid consent in Denmark. This is no longer the case and now a more explicit consent is required (e.g. the clicking of an “accept” button).&nbsp;
+The ePrivacy Directive is to be replaced by the ePrivacy Regulation, a change which was forecast for spring 2018, however, now postponed indefinitely and the timeframe for changes to abovementioned rules are thus currently unknown.&nbsp;
+From the wording of the latest draft, however, it is unsurprisingly safe to say that the definition of consent used in the GDPR is carried on and is to be read across into the draft e-Privacy Regulation text. Further, the draft also introduces significant practical changes, so that obtaining consent will require much more effort. Technology providers are required to include default settings which must all be set to preclude third parties from storing information on, or using information about, an end-user’s device. So, browsers would have to be pre-configured so that cookies used for frequency capping of ads or ad-serving would be blocked by default unless a user opts to enable them.

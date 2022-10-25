@@ -1,0 +1,14 @@
+The Law on the Digital Code adopts a proportionate, context-specific approach to security.&nbsp;
+Article 426 of this Law states that in order to guarantee the security of personal data, the controller and/or its processor must implement appropriate technical and organisational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, interception, in particular where the processing involves the transmission of data over a network, and against all other forms of unlawful processing.&nbsp;
+These measures must ensure, taking into account the state of the art and the costs associated with their implementation, an appropriate level of security, taking into account, on the one hand, the state of the art in the field and the costs involved in applying these measures and, on the other hand, the nature of the data to be protected and the potential risks.&nbsp;
+It is also the responsibility of the data controller, his representative and the sub-processor to ensure compliance with these security measures.&nbsp;
+The Law on the Digital Code does require controllers and processors to consider the following when assessing what might constitute adequate security:&nbsp;
+
+the pseudonymization and encryption of personal data;
+the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident; and
+a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.&nbsp;
+
+No specific requirements other than those set forth in the Law.Last modified 10 Jan 2022
+				
+			

@@ -1,0 +1,20 @@
+Breach notification requirements are contained in the CSL, DSL and PIPL, and should be read together. “Network security incidents” that are notifiable are defined by reference to seven categories of different incident types. Guidelines set out other factors that should be considered whether a network security incident is potentially reportable. The China National Internet Emergency Center may be contacted in case of doubt as to whether an incident is potentially reportable.
+An incident must be immediately notified: (i) internally, to the DPO; and (ii) externally, to the regulator (the PIPL refers to the CAC establishing (local) “personal information protection departments” (PIPD) for such purposes, but this is yet to be confirmed), and should include:
+
+affected data categories;
+reasons for the incident, and potential consequences;
+remedial measures, and mechanisms required by data controller to minimize impact; and
+contact information for data controller.
+
+If the data controller can effectively avoid the disclosure, loss or tampering of data, the PIPL suggests that there is no need to notify data subjects. Otherwise (and as per the CSL and DSL) data subjects must be notified immediately if the actual or suspected network security incident may result in harm to the rights and interest of the affected data subjects. Further, if the PIPD believes it may cause impact to individuals, they may request that the data controller notifies individuals. Similar information must be given to the data subjects alongside advice on how to protect against risks arising from the incident.&nbsp;&nbsp;
+Further changes are also expected in this regard. Notably, the Draft Network Data Security Management Regulation (intended to supplement the PIPL) clarifies that incidents involving any of the following must be notified to the CAC and other relevant regulators within eight hours of the data incident:
+
+personal data of more than 100,000 individuals; or
+any important data.
+
+A second report to the CAC is then required within five working days of the incident being resolved.
+In any case, immediate remedial action must be taken in the event of any suspected or actual data disclosure, loss or tampering.&nbsp;
+Organizations should also adopt proactive measures to minimize the risk of personal information breaches or security incidents, including but not limited to, implementing and testing a data incident contingency plan and organizing training.
+We understand the regulators are working on a project to publish further guidelines as to how network security incidents should be managed.Last modified 27 Jan 2022
+				
+			

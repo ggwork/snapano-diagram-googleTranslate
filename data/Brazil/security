@@ -1,0 +1,24 @@
+Controllers and processors must adopt technical and administrative security measures designed to protect personal data from:
+
+Unauthorized accesses, and
+Accidental or unlawful situations of:
+
+Destruction
+Loss
+Alteration
+Communication, or
+Any improper or unlawful processing
+
+
+
+The LGPD grants the ANPD authority to establish minimum technical standards for companies to implement.
+On 4 October&nbsp;2021, the ANPD launched information security guidelines aimed at small data processing agents (such as microenterprises, small businesses, and startups) to assist them with good practices in implementing technical and administrative information security measures for the protection of personal data. The guidelines also contain a checklist to facilitate the visualization of suggestions, such as awareness and training programs, agreements management, access controls, data storage guidelines, and vulnerability management.
+The Brazilian Internet Act further establishes that service providers, networks and applications providers should keep access records (such as IP addresses and logins) confidential and in a secured and controlled environment. Guidelines issued under the Internet Act established guidelines on appropriate security controls, including:
+
+Strict control on data access by defining the liability of persons who will have the possibility of access and exclusive access privileges to certain users
+Prospective of authentication mechanisms for records access, using, for example, dual authentication systems to ensure individualization of the controller records
+Creation of detailed inventory of access to connection records and access to applications containing the time, duration, the identity of the employee or the responsible person for the access designated by the company and the accessed file
+Use of records management techniques&nbsp;that ensure the inviolability of data, such as encryption or equivalent protective measures
+Last modified 24 Jan 2022
+				
+			

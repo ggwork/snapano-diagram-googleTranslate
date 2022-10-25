@@ -1,0 +1,29 @@
+Entities with obligations to comply with the Privacy Act must comply with the mandatory data breach notification regime under the Privacy Act.
+The mandatory data breach notification includes data breaches that relate to:
+
+Personal information
+Credit reporting information
+Credit eligibility information
+Tax file numbers
+
+In summary, the regime requires organizations to notify the OAIC and affected individuals of "eligible data breaches" (in accordance with the required contents of a notice). Where it is not practicable to notify the affected individuals individually, an organization that has suffered an eligible data breach must make a public statement on its website containing certain information as required under the Privacy Act, and take reasonable steps to publicise the contents of the statement.
+An "eligible data breach" occurs when the following conditions are satisfied in relation to personal information, credit reporting information, credit eligibility information or tax file information:
+
+All of the following conditions are satisfied:
+
+
+There is unauthorized access to, or unauthorized disclosure of, or loss of the information
+
+
+A reasonable person would conclude that the access or disclosure, or loss would be likely to result in serious harm to any of the individuals to which the information relates
+
+Prevention of the risk of serious harm through remedial action has not been successful
+
+
+While "serious" harm is not defined in the legislation, the OAIC has released guidance on how serious harm may be interpreted and assessed by organizations. There are a number of key criteria to examine when determining if "serious" harm is likely to result from a breach which should be assessed holistically and take into account: the kinds of information, sensitivity, security measures protecting the information, the nature of the harm (ie, physical, psychological, emotional, financial or reputational harm) and the kind(s) of person(s) who may obtain the information.
+The regime also imposes obligations on organizations to assess within 30 calendar days whether an eligible data breach has occurred where the organization suspects (on reasonable grounds) that an eligible data breach has occurred, but that suspicion does not amount to reasonable grounds to believe that an eligible data breach has occurred.
+There are various exceptions to the requirement to notify affected individuals and/or the OAIC of a data breach notification including in instances where law enforcement related activities are being carried out or where there is a written declaration by the Privacy Commissioner.
+The introduction of the regime has resulted in many organizations requiring detailed contractual obligations with third party suppliers in relation to cybersecurity and the protection of personal information of their customers / clients. Complimenting this regime, the OAIC has also released several guidance notes relating to the regime which include topics such as the security of personal information and whilst these are not legally binding, they are considered industry best practice.
+Further, organizations may have additional obligations to notify other regulators of data breaches in certain circumstances including under the Prudential Standard CPS 234 Information Security ("CPS 234") which aims to strengthen APRA-regulated entities' resilience against information security incidents (including cyberattacks), and their ability to respond swiftly and effectively in the event of a breach. CPS 234 &nbsp;applies to all APRA-regulated entities who &nbsp;among other things, are required to notify APRA within 72 hours "after becoming aware" of an information security incident and no later than 10 business days after "it becomes aware of a material information security control weakness which the entity expects it will not be able to remediate in a timely manner".&nbsp;Last modified 23 Dec 2021
+				
+			

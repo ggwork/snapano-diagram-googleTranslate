@@ -1,0 +1,71 @@
+Consent
+In general, express, informed consent is required from the data subject before personal information can be collected, used, transferred or otherwise processed. In certain circumstances, such as collecting or processing sensitive personal information, overseas data transfers and direct marketing, explicit consent (i.e. consent specific to the processing activity / transfer (rather than just general consent to the privacy notice, expressed through an affirmative action) is required from the data subject. Collection from individuals under 14 years old is prohibited unless explicit consent is obtained from their legal guardians. As a matter of best practice, explicit consent is recommended.
+In addition, the PIPL has introduced a new requirement for separate consent to be obtained for:
+
+processing sensitive personal information;
+overseas transfers;
+public disclosure of personal information;
+to provide data to another data controller for processing; and
+use of image or identification data collected in public through image or identification device for purposes other than maintaining public security.
+
+Whilst there is no clear definition of what “separate consent” constitutes in practice, it appears to suggest that organisations should avoid bundled or forced consent.
+The PIPL also introduced limited circumstances (i.e. lawful bases) in which personal information can be processed without consent, including:
+
+
+entering into or fulfilling a contract where the data subject is a named party;
+
+
+carrying out human resources management under an employment policy legally established or a collective contract legally concluded;
+
+
+fulfilling legal obligations (which may be helpful in the context of regulatory investigations);
+
+
+in response to public health incidents;
+
+
+for public security and public interest reasons; and
+
+
+as required by law (e.g. where required to disclose information under another PRC law).
+
+
+However, in practice, it is unclear how these lawful bases could be relied upon. Consent remains the primary basis for lawful data processing, and it is anticipated this will continue in practice.
+Notice
+In addition to obtaining consent, a data controller (i.e. the organization who has the authority to determine the purposes, means or method of processing) should provide data subjects with a privacy policy or other form of notice, informing them of the scope and ways in which their personal information is collected, processed and disclosed, including the following information:
+
+the identity of the data controller, including its registered name, registered address, principal office, a telephone number and / or an e-mail address;
+a list of personal information collected for each business purpose. Where sensitive personal information is involved, relevant consent shall be explicitly marked or highlighted;
+the location of storage, retention period, means of use / processing and scope of the personal information collected;
+the purposes sought by the data controller, i.e. what the data controller uses the data for (for instance, supplying goods and services, creating a user account, processing payments, managing subscriptions to the newsletters, etc.). These should be as comprehensive as possible, as additional purposes will require new consent;
+circumstances under which the data controller will transfer, share, assign personal information to third parties (including intra-group entities) or publicly disclose personal information, the types of personal information involved in these circumstances, the types of third party data recipients, and the respective security and legal responsibilities of the entities;
+the rights of data subjects and mechanisms for them to exercise such rights, e.g. methods to access, rectify or delete their personal information, to de-register their accounts, withdraw their consent, obtain copies of their personal information and restrict automated decision by the data system etc.;
+potential risks for providing personal information, as well as possible consequences for not providing the data;
+data security capabilities of, and data security protection measures to be adopted by, the data controller and, when necessary, the compliance certificates related to data security and personal information protection; and
+channels and procedures for making inquiries and lodging complaints by data subjects, as well as external dispute settlement body and contact information.
+
+The information in the privacy policy must be true, accurate and complete. The contents of the privacy policy must be clear and easy to understand, and ambiguous language should be avoided. The privacy policy should be made available to the data subject when collecting consent, and published publicly and easily accessible, for example, through a link placed prominently on a webpage or an installation page of a mobile application. When changes occur to the information provided in the privacy policy, the data subjects should be notified of such changes and (depending on the extent of changes made) further consent may need to be obtained.
+Processing&nbsp;
+Collection and processing of personal information must be directly related to the purpose of processing specified in the privacy notice.&nbsp;
+Excessive data collection must be avoided. Interestingly the provisions of the PIPL around data minimization appear to be targeted at apps and big data analytics. Additional restrictions are placed on use of biometric data collected in public places.&nbsp;
+There are prohibitions on illegal collection, use, processing, sale, disclosure and transfer of personal information.&nbsp;
+Impact assessment and record-keeping
+The PIPL requires data controllers to undertake personal information impact assessments (PIIA) and to retain the results and processing records (for three years) in the following circumstances:
+
+processing of sensitive personal information;
+using personal information to conduct automated decision-making;
+appointing a data processor;
+providing personal information to any third party (likely to include sharing with group companies);
+public disclosure of personal information;
+overseas data transfer of personal information; and
+any other processing activities that may have "significant impact to an individual".
+
+A PIIA should include an assessment on:
+
+whether the purpose of use and means of processing is legitimate, proper and necessary;
+impacts and risks to individual’s interests; and
+applicability of protection measures and risk appetite.
+
+The "Guidance for Personal Information Security Impact Assessment" (PIIA Guidelines) (published by the National Standardization Technical Committee for Information Security) came into force on June 1, 2021.Last modified 27 Jan 2022
+				
+			
