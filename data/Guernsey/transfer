@@ -1,0 +1,44 @@
+The DPL 2017 differentiates between authorised jurisdictions and unauthorised jurisdictions.
+Authorised jurisdictions include:
+
+the Bailiwick of Guernsey
+a member state of the European Union
+any country, sector or international organisation which has been determined by the European Commission as providing an 'adequate level of protection' for the rights and freedoms of data subjects or
+any designated jurisdiction.&nbsp;
+
+A designated jurisdiction includes the UK (or any country within the UK), any Crown Dependency (such as the Channel Islands or Isle of Man) or any sector within the UK or a Crown Dependency.
+Unauthorised jurisdictions means any countries, sectors in a country or international organisation that does not fall within the scope of an 'authorised jurisdiction'.&nbsp; &nbsp;
+Personal data must not be transferred outside of the Bailiwick of Guernsey by a controller or processor ("Exporter") to an unauthorised jurisdiction unless the Exporter is satisfied that:
+
+particular 'safeguards' are in place and there is a mechanism for data subjects to enforce their rights and obtain effective legal remedies against a controller or processor receiving the personal data ("Importer") (section 56 DPL 2017)
+the Authority or the ODPA has authorised the transfer (section 57 DPL 2017) or
+other specified derogations exist (section 59 DPL 2017)
+
+'Safeguards' for the purposes of paragraph (a) above include: legally enforceable agreements (where the Importer is a public authority / body), binding corporate rules, EU's Model Clauses (or equivalent provisions as may from time to time be in force) or approved codes or other approved mechanisms which combine binding and enforceable commitments on the Importer.&nbsp;
+'Derogations' include:
+
+the data subject has given explicit consent to the transfer after having been informed of the risks of the transfer
+the transfer is necessary for the performance of a contract between the data subject and the controller or between the controller and third party in the interests of the data subject or for the taking of steps at the request of the data subject with a view to the data subject entering into a contract with the data controller
+the transfer is authorised by regulations made for reasons of public interest
+the transfer is necessary for, or in connection with, legal proceedings, obtaining legal advice or for the purposes of establishing, exercising or defending legal rights
+the transfer is necessary to protect the vital interests of the data subject or another individual (provided that the data subject is physically or legally incapable of giving consent or the controller cannot be reasonably expected to obtain explicit consent)
+the transfer is part of personal data on a public register or a register to which a member of the public has lawful access
+a decision of a public authority (within or without the Bailiwick) based on international agreement imposing international obligations on the Bailiwick or an order of a court or tribunal
+the transfer is in the legitimate interests of the controller which outweighs the significant interests of the data subject and:
+
+the transfer is not repetitive
+the transfer only concerns a limited number of data subjects
+the controller has assessed all circumstances surrounding the data transfer and on the basis of that assessment considers that appropriate safeguards to protect personal data have been provided.
+
+
+
+Where the transfer is justified on the legitimate interests grounds described above, both the ODPA and the data subject must be notified accordingly.
+Transfers post Schrems II
+The burden on Guernsey-established controllers and processors of transferring personal data to&nbsp;unauthorised jurisdictions has increased following the CJEU's Case C-311/18 Data Protection&nbsp;Commissioner v Facebook Ireland Limited, Maximillian Schrems and intervening parties ("Schrems II").
+Not only has the ODPA confirmed that transfers in reliance of the EU-US Privacy Shield framework are no&nbsp;longer valid but that, following Schrems II, where standard contractual clauses ("SCCs") are used,&nbsp;controllers must ensure that they have "comprehensively review[ed]" the data transfer to ensure that&nbsp;"appropriate safeguards are in place". However, the guidance does not provide any assistance as to what&nbsp;steps need to be taken in order to ensure that the chosen safeguards are appropriate.
+These steps has since been clarified by the European Data Protection Board ("EDPB") which published&nbsp;its draft Recommendations 01/2020 in November 2020 on measures that supplement transfer tools to&nbsp;ensure compliance with the EU level of protection of personal data. At the time of writing, these&nbsp;Recommendations were still in draft, but provide a key indication as to the EDPB's direction of travel. The&nbsp;emphasis is now on controllers to satisfy themselves that the transfers to unauthorised jurisdictions are&nbsp;properly assessed (taking into account the law and practice of the recipient jurisdiction) and, as&nbsp;appropriate, subject to supplementary measures. The EDPB are also currently consulting on a new set of&nbsp;SCCs which are expected to be approved in the first part of 2021.
+Whilst the status of the CJEU jurisprudence is unclear in Guernsey, as the Bailiwick of Guernsey is not a&nbsp;Member State, it is likely to be persuasive (particularly in light of section 1(a) of the DPL 2017, which sets&nbsp;out a statement that the Data Protection Law be 'equivalent' to the GDPR).
+Guernsey&nbsp;– UK Transfers – Brexit
+Transfers of personal data from the Bailiwick to the UK are authorised by the States of Guernsey&nbsp;pursuant to the Data Protection (Authorised Jurisdiction) (Bailiwick of Guernsey) Ordinance, 2020 until 31&nbsp;December 2021. It is anticipated that this will provide time for the EU to finalise its assessment of the&nbsp;UK's laws and practices from an adequacy perspective.Last modified 5 Jan 2021
+				
+			

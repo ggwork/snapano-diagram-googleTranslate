@@ -1,0 +1,60 @@
+Note: Please also see UAE – Dubai (DIFC),&nbsp;UAE – ADGM, UAE – DHCC.
+Generally
+As part of the 50th anniversary of its founding, the United Arab Emirates (“UAE”) has issued a set of sweeping legal reforms, including the much anticipated Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data Protection (“PDPL”), which was issued on 26 September 2021.
+The executive regulations to the PDPL (“Executive Regulations”) are expected to be published before March 2022. Thereafter organisations have a further six months from the date of the issuance of the Executive Regulations in which they can adjust operations to compliance with the PDPL.
+Reassuringly, the PDPL does not contain any major divergences from other well-known data protection regimes, including the GDPR. In this regard we expect it will be welcomed by local, regional and international businesses, in particular those that rely heavily upon personal data and international personal data flows. International businesses with global privacy compliance programs should seek to expand those to cover the UAE and achieve some synergies. However, businesses that are not used to compliance with laws like the GDPR may find some of the new obligations challenging; for example, the PDPL introduces rights for individuals to access, rectify, correct, delete, restrict processing, request cessation of processing or transfer of data, and object to automated processing. There are also new requirements around transfers of data outside of the UAE and requirements to keep data secure, and to notify the new data protection regulator, and in some circumstances Data Subjects, of data breaches. The requirements regarding keeping data secure, and new data breach obligations, will definitely up the ante for businesses in the UAE to take cyber security seriously.
+Territorial Scope
+The PDPL applies to:
+
+processing of personal data of people residing in the UAE, or people having a business within the UAE;
+each Controller or Processor inside the UAE, irrespective of whether the personal data they process is of individuals inside or outside the UAE
+each Controller or Processor located outside the UAE, who carries out processing activities of Data Subjects that are inside the UAE.
+
+Other data protection and privacy laws in the UAE
+The PDPL keeps intact existing data protection and privacy laws within the UAE’s financial free zones, DIFC and ADGM, as well as the rules of the Dubai Health Care City, (links to our summaries are above) as well as applicable onshore laws regulating health data and banking and credit data.&nbsp; For this reason the data protection landscape in the UAE (and the wider GCC region) remains complex to navigate and somewhat fragmented, meaning that the application of the PDPL will need to be considered carefully.
+There are several UAE federal level laws that contain various provisions in relation to privacy and the protection of personal data:
+
+Constitution of the UAE (Federal Law 1 of 1971)
+Crimes and Penalties Law (Federal Law 31 of 2021, abrogating Federal Law 3 of 1987)
+Cyber Crime Law (Federal Law 5 of 2012 regarding Information Technology Crime Control) (as amended by Federal Law No.&nbsp;12 of 2016 and Federal Decree Law No.&nbsp;2 of 2018), and
+Regulating Telecommunications (Federal Law by Decree 3 of 2003 as amended), which includes several implementing regulations/policies enacted by the Telecommunications and Digital Government Regulatory Authority ('TDRA') in respect of data protection of telecoms consumers in the UAE.
+
+There are also some federal level sectoral regulations in banking and finance, and in health, which should be considered.
+The Central Bank Law (Federal Law No. 14 of 2018); Central Bank’s Consumer Protection Regulation issued under Central Bank Notice No. 444 of 2021, and related Central Bank Consumer Protection Standards issued under Notice No. 1158 of 2021 on Consumer Protection Standards
+Article 120 of the Central Bank Law requires that all data and information related to customers should be considered confidential in nature. &nbsp;
+On 31 December 2020 the UAE Central Bank published its Consumer Protection Regulation.&nbsp; It applies to all Central Bank Licensed Financial Institutions, which had one year in which to ensure their compliance.
+Article 6 of the Consumer Protection Regulation requires that Licensed Financial Institutions must collect the minimal amount of Consumer Data and information needed in respect of their licensed activities and remain in compliance with all other related laws and treat Consumers' information relationships and business affairs as private and confidential.
+The Central Bank Consumer Protection Standards outline detailed requirements regarding how Licensed Financial Institutions must comply with.&nbsp; These standards include Licensed Financial Institutions:
+
+having a proper Data Management Control Framework;
+using secure digital transaction processing and controls;
+designating responsibility and accountability for the data management and protection function to a senior position in management who reports directly to senior management;
+ensuring personal data is:
+
+collected for a lawful urpose directly related to the Licensed Financial Activities of the Licensed Financial Institution;
+adequate and not excessive in relation to the stated purpose; and
+collected with appropriate security and protection measures against unauthorized or unlawful processing and accidental loss, destruction, or damage.
+
+
+notifying consumers prior to requesting consent to share consumer personal data;
+obtaining express consent of consumers prior to use or sharing of their data;
+retaining all personal data, documents, records and files securely for a minimum of 5 years;
+notifying the Central Bank of any material data breaches, losses, destruction or alteration when they occur.
+
+Central Bank’s Stored Value Facilities Regulation
+On 30 September 2020 the UAE Central Bank issued a new Stored Value Facilities Regulation (“SVF Regulation”), repealing and replacing the Regulatory Framework for Stored Values and Electronic Payment Systems it has issued in September 2016.&nbsp;&nbsp; While the SVF Regulation makes amendments to the licensing and enforcement regime for SVF (on onshore UAE only; it does not apply in, or affect, the DIFC and ADGM free zones), from a data protection perspective little has changed.&nbsp; The SVF Regulation applies to those providing Stored Value Facilities, which is now defined as “a facility (other than cash) for or in relation to which a Customer, or another person on the Customer's behalf, pays a sum of money (including Money's Worth such as values, reward points, Crypto-Assets or Virtual Assets) to the issuer, whether directly or indirectly, in exchange for: (a) the storage of the value of that money (including Money's Worth such as values, reward points, Crypto-Assets or Virtual Assets), whether in whole or in part, on the facility; and (b) the “Relevant Undertaking”. SVF includes Device-based Stored Value Facility and Non-device based Stored Value Facility”.
+Article 10 of the SVF Regulation requires that licensees providing SVF services (“SVFLicensee”) must have in place adequate policies, measures and procedures to protect its information and accounting systems, databases, books and accounts, and other records and documents from unauthorized access, unauthorized retrieval, tampering and misuse.
+An SVF Licensee must also adequately protect customer data (including customer identification and transaction records) which are required to be stored and maintained in the UAE. Such data can only be made available to the corresponding customer, the Central Bank, other regulatory authorities following prior approval of the Central Bank, or by a UAE court order. An SVF Licensee must store and retain all customer and transaction data for a period of five years from the date of the creation of the customer data, or longer if required by other laws.
+Article 8 of the SVF Regulation requires that outsourcing arrangements must also contain adequate data protection and data handling controls.&nbsp;
+ICT in Health Fields Law and Regulations, and Federal Ministerial Decision No 51 of 2021 Cases Allowing the Storage and Transfer of Medical Data and Information Out of the State
+On 6 February 2018 Federal Law No. 2 of 2018 on the Use of the Information and Communication Technology (“ICT”) in Health Fields (“ICT in Health Fields Law”) was issued.&nbsp; The primary purpose of the ICT in Health Fields Law is to establish a central electronic system of medical records for use within the health industry within the UAE.&nbsp;
+Article 13 of the ICT in Health Fields Law states that the Health Information and data related to the health services provided in the UAE may not be stored, processed, generated or transferred outside the UAE, unless in the cases defined by virtue of a decision issued by the Health Authority of the relevant emirate in coordination with the Federal Ministry of Health.
+The Minister of Health issued a decision on 28 April 2021 outlining the circumstances when Health Information can be transferred outside of the UAE.
+The UAE ICT in Health Fields Law applies to all Competent Entities.
+“Competent Entity” is defined as "Any entity in the State providing medical services, health insurance or national health insurance services, brokerage services, claims management services or electronic services in the medical field of any entity related, whether directly or indirectly, to the implementation of the provisions hereof."
+“Health Information” is defined as “The health information that were processed and were given a visual, audible or readable indication, and that may be attributed to the health sector, whether related to the health or insurance facilities or entities or to the health services beneficiaries.”
+On 22 April 2020 the Federal Cabinet issued Cabinet Resolution No. 32 of 2020 concerning the Regulations Concerning the Use of the Information and Communications Technology in the Areas of Health (“ICT in Health Fields Regulations”).&nbsp; The regulations provide further details, including on permission controls to access and use the central system, and on the storage and exchange of information on the central system.&nbsp;&nbsp;
+Dubai Data Law
+In December 2015 the Dubai Government published the Dubai Law No. 26 of 2015 on the Regulation of Data Dissemination and Exchange in the Emirate of Dubai, ("Dubai Data Law"). The purpose of the Dubai Data Law to collate and manage data that relates to the emirate of Dubai and, where appropriate, to publish it as “Open Data” or at least ensure that it is shared it between authorised persons. This law is considered unique as it is the only one in the world we are aware of that provides a government with the power to require designated private sector entities to provide to a government with information held by the company in relation to a city, for the purposes of making that information Open Data.Last modified 17 Jan 2022
+				
+			

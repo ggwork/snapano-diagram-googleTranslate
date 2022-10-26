@@ -1,0 +1,42 @@
+Fines
+The GDPR empowers supervisory authorities to impose fines of up to 4% of annual worldwide turnover, or EUR 20 million (whichever is higher).
+It is the intention of the European Commission that fines should, where appropriate, be imposed by reference to the revenue of an economic undertaking rather than the revenues of the relevant controller or processor. Recital 150 of the GDPR states that 'undertaking' should be understood in accordance with Articles 101 and 102 of the Treaty on the Functioning of the European Union, which prohibit anti-competitive agreements between undertakings and abuse of a dominant position. Unhelpfully, the Treaty does not define ‘undertaking’ and the extensive case-law is not entirely straightforward, with decisions often turning on the specific facts of each case. However, in many competition cases, group companies have been regarded as part of the same undertaking. The assessment will turn on the facts of each case, and the first test cases under the GDPR will need to be scrutinised carefully to understand the interpretation of ‘undertaking’. Under EU competition law case-law, there is also precedent for regulators to impose joint and several liability on parent companies for fines imposed on those subsidiaries in some circumstances (broadly where there is participation or control), so-called "look through" liability. Again, it remains to be seen whether there will be a direct read-across of this principle into GDPR enforcement.
+Fines are split into two broad categories.&nbsp;The highest fines (Article 83(5)) of up to EUR 20 million or, in the case of an undertaking, up to 4% of total worldwide turnover of the preceding year, whichever is higher, apply to infringement of:
+
+the basic principles for processing including conditions for consent;
+data subjects’ rights;
+international transfer restrictions;
+any obligations imposed by Member State law for special cases&nbsp;such as processing employee data; and
+certain orders of a supervisory authority.
+
+The lower category of fines (Article 83(4)) of up to EUR 10 million or, in the case of an undertaking, up to 2% of total worldwide turnover of the preceding year, whichever is the higher, apply to infringement of:
+
+obligations of controllers and processors, including security and data breach notification obligations;
+obligations of certification bodies; and
+obligations of a monitoring body.
+
+Supervisory authorities are not required to impose fines but must ensure in each case that the sanctions imposed are effective, proportionate and dissuasive (Article 83(1)).
+Fines can be imposed in combination with other sanctions.
+Investigative and corrective powers
+Supervisory authorities also enjoy wide investigative and corrective powers (Article 58) including the power to undertake on-site data protection audits and the power to issue public warnings, reprimands and orders to carry out specific remediation activities.
+Right to claim compensation
+The GDPR makes specific provision for individuals to bring private claims against controllers and processors:
+
+any person who has suffered "material or non-material damage" as a result of a breach of the GDPR has the right to receive compensation (Article 82(1)) from the controller or processor. The inclusion of “non-material” damage means that individuals will be able to claim compensation for distress even where they are not able to prove financial loss.
+data subjects have the right to mandate a consumer protection body to exercise rights and bring claims on their behalf (Article 80).
+
+Individuals also enjoy the right to lodge a complaint with a supervisory authority (Article 77).&nbsp;
+All natural and legal persons, including individuals, controllers and processors, have the right to an effective judicial remedy against a decision of a supervisory authority concerning them or for failing to make a decision (Article 78).
+Data subjects enjoy the right to an effective legal remedy against a controller or processor (Article 79).In Finland, the Data Protection Ombudsman and the Deputy Data Protection Ombudsmen supervise compliance with GDPR and the Finnish Data Protection Act. In addition, an Expert Committee provides statements on significant questions and matters related to data processing upon the request of the Data Protection Ombudsman.
+The Data Protection Ombudsman may order a data controller or data processor to comply with certain articles of the GDPR as well as Section 18 of the Data Protection Act, which covers the Data Protection Ombudsman’s right to receive necessary information, and impose a default fine to make the order more effective. However, the default fine may not be imposed on a natural person due to them not complying with the section on the Data Protection Ombudsman’s right to receive information if the person is suspected of a crime and the information is related to the alleged crime.
+Administrative fines defined in article 83 of the GDPR will be issued by a sanction board within the Office of the Data Protection Ombudsman. The sanction board consists of the Data Protection Ombudsman and the two Deputy Data Protection Ombudsmen and the decision shall be made as a majority decision. Finland has decided to use the provided national leeway and the Act regulates that the administrative fines cannot be issued to:
+
+state authorities;
+state-owned businesses;
+local authorities;
+independent public institutions;
+organs operating in connection with the Parliament;
+the Office of the President of the Republic; or
+the Evangelical Lutheran Church of Finland or the Orthodox Church of Finland or the parishes, associations of parishes or other bodies thereof.
+
+In addition, criminal sanctions can ensue from breaches of data protection laws in Finland as the Criminal Code of Finland 39/1889 (Rikoslaki) includes several data processing, data privacy, confidentiality and data security related offences or crimes. Finland has also introduced a punishable offence, the data protection offence, to the Criminal Code of Finland based on the GDPR. If the controller or data processor commits a data protection offence, the punishment is a fine or up to one year of imprisonment. The Criminal Code also states that the prosecutor is obligated to hear the Data Protection Ombudsman before bringing charges against a controller or data processor for a data protection offence.

@@ -1,0 +1,12 @@
+Generally, Iranian business are required to take reasonable measures to secure personal information. It is unclear whether such measures must be physical, technical or organizational.&nbsp;
+Nevertheless, somehow effective regulations apply to some businesses which are involved in sensitive information such as judges, attorneys, doctors, hospitals and pharmacies.&nbsp;
+Under the ECL, “secure information system” is defined as an information system that:&nbsp;
+
+is reasonably protected against misuse or penetration
+possesses a reasonable level of proper accessibility and administration
+is reasonably designed and organized in accordance with the significance of the task
+is in compliance with secure methods &nbsp;
+
+A “secure method” is a method to authenticate “data message” date, correctness, origin and destination, as well as to detect errors and modifications in its communication, content, or storage from a certain point. A secure message is generated using algorithms or codes, identification words or numbers, encryption, acknowledgement call-back procedures or similar secure techniques.Last modified 23 May 2019
+				
+			

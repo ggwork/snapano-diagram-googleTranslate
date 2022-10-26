@@ -1,0 +1,25 @@
+What is a breach?
+The DPL 2017 defines a 'personal data breach' as a "breach of security leading to the (a) accidental or unlawful destruction, loss, or alteration of; or, (b) unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed".&nbsp;
+This definition replicates the definition set out in Article 4 of the GDPR.
+Notice to ODPA
+As with the GDPR, the DPL 2017 requires all controllers, upon becoming aware of a personal data breach to provide written notice to the ODPA as soon as practicable and no later than 72 hours after becoming so aware. Section 42(5) of the DPL 2017 provides an exemption from the duty to notify the ODPA where the personal data breach is "unlikely to result in any risk to the significant interests of the data subject".
+In determining whether or not there is a risk, the ODPA's guidance entitled 'Notification of Personal Data Breaches' ("Breach Guidance") advises organisations who process personal data to consider the type of personal data they hold and whether any breach could, both at the time of the breach and in the future, 'adversely affect an individual' taking into consideration the potential for financial loss, reputational damage, or identity fraud.
+The DPL 2017 stipulates the sort of information which must be provided to the ODPA in the event of such a breach including a description of the nature of the personal data breach, contact details of the DPO or contact point, a description of the likely consequences of the breach, a description of the measures taken or proposed to be taken to address risks and mitigate against possible adverse effects and an explanation of any delays (where a breach has been notified after 72 hours).&nbsp;
+All breaches which must be notified to the ODPA can be submitted to the ODPA via their online secure breach reporting facility.&nbsp;
+In any case, whether a personal data breach is notified to the ODPA or not, the controller must keep a written record of each personal data breach of which the controller is aware, including the facts relating to the breach, the effects, the remedial action taken and any steps taken by the controller to comply with its notification obligations (including a copy of the notice provided to the ODPA).
+Notice to data subjects
+Where a controller becomes aware of a personal data breach that is likely to pose a "high risk to the significant interests of a data subject", the controller must give the data subject written notice of the breach as soon as possible.
+The Breach Guidance provides a non-exhaustive of factors for controllers to take into account when determining whether a breach poses a 'high risk'. Whilst financial loss, reputational damage and identity fraud must be considered, the Breach Guidance also includes the risk of whether the breach might have an adverse impact of safety or wellbeing of the data subject (including psychological distress or humiliation). When assessing the risks, the ODPA expects all controllers to consider the nature, scope, context and purpose of the compromised personal data, including whether special category data had been compromised.
+Any notice given to an affected data subject must include a description of the nature of the breach, the name and contact details of the DPO or point of contact, a description of the likely consequences of the breach, and a description of the measures taken or proposed to be taken by the controller to address the breach.&nbsp;
+A controller is exempt from the requirement to notify a data subject where it has:
+
+established and carried out appropriate technical and organisational measures to protect personal data and, in particular, those measures have rendered personal data unintelligible to any person who is not authorised to access it (e.g. encryption); or
+taken subsequent measures to mitigate the risk, such that the 'high risk' is no longer likely to materialise, or where the performance of the duty would involve 'disproportionate effort'.&nbsp;
+
+Whilst the Breach Guidance does not define what will amount to 'disproportionate effort to notify', it clarifies that a controller must nonetheless publish a notice (without making public any personal data) or take any other step equivalent to publication in order to inform the data subjects in an equally effective manner.
+Notice to controller (where a processor is engaged)
+The responsibility for reporting a personal data breach to the ODPA rests with the controller. However, where a processor becomes aware of a personal data breach, the processor must give the controller notice as soon as practicable. Where notice is given orally, written notice must follow at the first available opportunity.&nbsp;
+Other regulatory notification requirements
+Guernsey's European Communities (Implementation of Privacy Directive) (Guernsey) Ordinance 2004 (as amended) ("e-Privacy Ordinance") requires a provider of a public electronic communications service (the 'service provider') to notify subscribers of a significant risk to the security of the service.Last modified 5 Jan 2021
+				
+			

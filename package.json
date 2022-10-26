@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec babel-node ./index.js",
-    "translate": "node ./translate.js"
+    "translate": "node ./translate.js",
+    "translateFile": "node ./translateFile.js"
   },
   "keywords": [],
   "author": "",

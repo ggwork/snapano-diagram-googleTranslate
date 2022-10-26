@@ -1,0 +1,104 @@
+Principles
+Data controllers must comply with the data protection principles set out under Section 6(2) DPL 2017 ("Principles").&nbsp;
+The Principles comprise:
+
+Lawfulness, fairness and transparency: personal data must be processed lawfully, fairly and in a transparent manner in relation to the data
+Purpose limitation: personal data must be collected for specified, explicit and legitimate purposes and, once collected, not further processed in a manner incompatible with those purposes
+Data minimisation: personal data must be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed
+Accuracy: personal data must be accurate and, where necessary, kept up to date, with reasonable steps being taken to ensure that personal data which is inaccurate, having regard to the purposes for which it is processed, is erased or rectified without delay
+Storage limitation: personal data must be kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the data are processed
+Integrity and confidentiality: personal data must be processed in a manner that ensures appropriate security of the data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures
+Accountability: the controller is responsible for, and must be able to demonstrate compliance with, the data protection principles described under paragraphs (a) – (f) above.
+
+Lawful basis
+Data controllers are required to ensure that they have a lawful basis for processing personal data. The DPL 2017 sets out a number of conditions which may be relied upon to legitimise the processing of personal data and special category data.
+The most common conditions for controllers to rely on are that:
+
+the data subject consents to the processing
+the processing is necessary for the performance of a contract to which the data subject is a party&nbsp; or between a controller and a third party in the interests of a data subject, or is in order to take steps at the data subject’s request with a view to entering into a contract
+the processing is necessary for the controller to exercise any right or power, or perform or comply with a duty imposed on it by law, otherwise than an obligation imposed by an enactment, an order, or a judgment of a court or tribunal having the force of the law in the Bailiwick
+the processing is necessary in order to protect the vital interests of the data subject
+the processing is necessary for legitimate interests of the controller or third party except where the processing is exercised by a public authority
+the processing is necessary for the exercise or performance by a public authority of a function that is of a public nature or a task carried out in the public interest.
+
+It is interesting to note that processing in the public interest is only available to public authorities whereas the equivalent provision in the GDPR is much broader than this.
+In addition to these conditions, controllers may also rely on one or more of a restrictive set of conditions in order legitimise either personal data or special category data.&nbsp; These include (but are not limited to):
+
+the data subject providing explicit consent to the processing
+processing which is necessary for compliance with a legal right or power or duty imposed on a controller by an enactment
+processing which is made public as a result of steps deliberately taken by the data subject
+processing which is necessary for the purpose of or in connection with legal proceedings, the discharge of any functions of a court or tribunal, obtaining legal advice or establishing, exercising or defending legal rights
+processing which is for the administration of justice of the exercise of any function of the Crown, the States of Guernsey or a public committee
+processing which is necessary for a historical or scientific purpose
+processing is necessary for the vital interests of a data subject.
+
+Additional bases
+In addition to the above, further secondary legislation has been adopted which sets out a number of additional lawful bases which are intended to be applied in limited circumstances.
+These bases include (but are not limited to):
+
+the processing of health or criminal data for insurance business purposes
+special category data which is required in order to perform or comply with a duty conferred by law on a controller in connection with employment
+special category data for the prevention, detection or investigation of an unlawful act.
+
+The additional bases will need to be considered on a case-by-case basis and may not always be straightforward to apply. If there were concerns regarding the legitimacy of such processing, we would recommend that you seek Guernsey law advice. &nbsp;
+Consent
+For the purposes of Section 10 DPL 2017, where a controller seeks to rely on consent, the controller must comply with more stringent requirements than under the DPL 2001 in order to ensure that such consent is valid.
+'Valid' consent involves (amongst other characteristics) a "specific, informed and unambiguous indication of the data subject's wishes by which a data subject, by a statement or by a clear affirmative action, signifies agreement to the processing of their personal data". In this regard, the DPL 2017 sets the same high standards for consent as the GDPR.
+Furthermore, the ODPA guidance confirms that, in addition to the ingredients required to achieve valid consent, explicit consent must be expressly confirmed in words, rather than a positive action. These requirements are summarised in a checklist for controllers setting out what controllers need to do when relying on consent.
+Finally in relation to&nbsp; consent, Section 10(2)(f) DPL 2017 stipulates that a child may only provide their own consent to processing in respect of the information society (primarily, online) services, where that child is over 13 years of age.&nbsp; Otherwise, a parent (or other responsible adult) must give it on their behalf.
+Transparency
+Requirements of transparency under the DPL 2017 closely align with the GDPR. Therefore, the DPL 2017 requires that certain specified information must be supplied as part of a 'fair processing notice' (Schedule 3 DPL 2017), namely:
+
+the identity and contact details of the controller, and (where applicable), the controller’s representative
+the contact details of the data protection officer (if any)
+confirmation of whether any of the personal data is special category data
+where the personal data is not obtained directly from the data subject: confirmation of the source of the personal data and (if applicable) confirmation of whether the personal data was obtained from a publicly available source and, if so, confirmation of that source
+the purposes for which the data is intended to be processed and the legal basis for the processing
+an explanation of the legitimate interests pursued by the controller or by a third party, if the processing is based on those interests
+the recipients or categories of recipients of the personal data (if any)
+where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and whether or not there is an adequate level of protection for the rights and freedoms of data subjects
+the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period
+information concerning the rights of data subjects
+where the processing is based on consent, the existence of the right to withdraw consent
+a statement of the right to complain to the Authority
+the existence of any automated decision-making, meaningful information about the logic involved in such decision-making and the significance of any such decision making for the data subject
+any further information that is necessary, having regard to the specific circumstances in which the data is or is to be processed, to enable the processing in respect of the data subject to be fair.
+
+Rights of the data subject
+The DPL 2017 has strengthened the rights of data subjects in line with the GDPR (Part III DPL 2017).
+Controllers must respond to a request "as soon as practicable" and in any event within one month following:
+
+the day on which the controller has received the request,
+the day on which the controller receives the information necessary to confirm the identity of the requestor, or
+the day on which a fee or charge is paid to the controller.&nbsp;&nbsp;
+
+These provisions represent a change to the position as last stated in August 2019 by the UK ICO.
+The following rights are available to data subjects:
+
+Right to information for personal data collected about the data subject either directly or indirectly (Sections 13 – 14 DPL 2017): Where personal data has been collected from a source other than the data subject, certain exceptions are available
+Right to data portability (Section 15 DPL 2017): a data subject has the right to have certain relevant personal data (being personal data relating to that person which has been provided to the original controller directly or via a processor) ported to a new controller, where:
+
+that relevant personal data is being processed based on consent; or
+processing necessary for the conclusion or performance of a contract.
+
+
+
+Where the right applies, the original controller must ensure that any personal data transmitted is provided in a structured, commonly used and machine-readable format. The right is subject to certain exceptions set out under Section 16 DPL 2017
+
+Right of access (Section 15 DPL 2017): a data subject is entitled to request access to and obtain a copy of his or her personal data, together with prescribed information about how the data has been used by the controller. Section 16 DPL 2017 provides for certain exceptions, including where a request cannot be complied with without disclosing information about another individual1, balancing the rights of the requestor with significant interests of the other individual. The DPL 2017 sets out further detail in respect of the factors which should be taken into consideration when making this determination.
+Right to object to processing (Section 17 – 19 DPL 2017): data subjects have the right to object to processing for: (a) direct marketing purposes, (b) on public interest grounds, and (c) where the processing is for historical or scientific purposes
+
+Whilst the right to object in respect of paragraph (a) is unconditional, the rights to object under paragraphs (b) and (c) are qualified and subject to a public interest test
+
+Right to rectification (Section 20 DPL 2017): a data subject has a right to request that any inaccurate or incomplete personal data may be corrected or that a statement is provided on the controller's file noting that the data subject disputes the accuracy or completeness of the personal data
+Right to erasure (Section 21 DPL 2017): data subjects may request erasure of their personal data. The right is not absolute; it only arises in a relatively narrow set of circumstances, notably where the controller no longer needs the data for the purposes for which they were collected or otherwise lawfully processed, or following the successful exercise by the data subject of their right to object or if the data subject withdraws their consent
+Right to restriction of processing (Section 22 DPL 2017): a data subject may request that the processing of their personal data is restricted in certain limited circumstances.&nbsp; Examples include: where the accuracy of the personal data is contested; where the processing is unlawful; or, where the data is no longer required (save for legal claims or for the purposes of obtaining legal advice or establishing / exercising or defending legal rights)
+Right to notified of restriction, erasure or rectification (Section 23 DPL 2017): the controller must not only notify the data subject concerned but, unless it is impracticable or involves disproportionate effort, notify any other person whose personal data has been disclosed
+Right not to be subject to decisions based on automated processing (Section 24 DPL 2017): a data subject has a right not to be subjected to a decision reached through an automated process, and a controller is prohibited from causing or permitting a data subject to be subjected to an automatic decision unless Section 24(2) DPL applies.
+
+Section 24(2) permits automated processing where: the data subject has given their explicit consent, or &nbsp;the processing has been authorised by the States of Guernsey or via an enactment; or, the automated processing is necessary for the vital interests of the data subject or another person or for the performance of a contract.&nbsp;
+Additional restrictions apply for the automated processing of special category data. A controller must ensure that appropriate safeguards are in place where automated processing has been conducted in accordance with Section 24(2) DPL (including allowing the data subject to appeal or seek a review of the decision)
+
+Right to make a complaint to ODPA (Section 67 DPL 2017): a data subject may also complain in writing to the ODPA if they consider that a controller or processor has breached or is likely to breach the DPL 2017 and that breach involves or affects (or is likely to involve or affect) personal data relating to the individual or any data subject right of the individual; and
+Right to bring a civil action against a controller or processor for breach duty (Section 79 DPL 2017): where a controller or processor breaches an operative provision under the DPL 2017 that causes damage to another person, the injured party may bring a claim in tort against the controller or processor for breach of statutory duty. The court may award damages, impose an injunction to restrain an actual or anticipated breach of duty and / or make a declaration that the controller or processor has committed or will commit a breach if its current course of action subsists. Individuals may also claim compensation for distress, inconvenience or other adverse effect suffered by an injured party even if it does not result from any physical or financial loss or damage. Group (or 'class') actions may also be brought against an organisation (Section 97 DPL 2017).
+Footnotes1.&nbsp;It is worth flagging that the DPL 2017 refers to individuals as opposed to the wider concept of 'others', as the equivalent measure is set out in the GDPR. Therefore, it is unclear whether recital 63 of the GDPR would apply in a Guernsey context where the disclosure of information might adversely affect the rights and freedoms of a person other than an individual (e.g. where the disclosure of such information might prejudice the intellectual property rights of a company or partnership).

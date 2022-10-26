@@ -1,0 +1,17 @@
+The laws of Vietnam introduced a general requirement for the reporting and notification of actual or suspected personal information security incidents. A data breach reporting / notification requirement in Vietnam will be triggered if the data incident falls within any of the following criteria:
+Criterion 1. The affected data system is located in Vietnam.
+Criterion 2. The services provided to customers in Vietnam fall under the categories of Regulated Services, including (1) telecommunication services; (2) data storage and sharing in cyberspace; (3) services providing national or international domain names to service users in Vietnam; (4) e-commerce; (5) online payment; (6) payment intermediary; (7) connecting transportation in cyberspace; (8) social networks and social media; (9) online games; and (10) other services that provide, manage and operate information in cyberspace in the form of messages, voice calls, video calls, email, or online chatting.
+Criterion 3. The incident causes “significant loss” to the legitimate rights and interests of the affected Vietnamese persons.
+Where there is a data security incident, organizations must promptly take relevant measures to mitigate and notify relevant data subjects and / or relevant competent State authorities, as the case may be, in a timely manner, e.g. 5 days after detection of the security incident, and must provide an update on the incident status when it is completely resolved, Affected organizations and individuals must be notified of the data incident if the incidents fall under Criterion 2 or Criterion 3.
+In the case of an incident under Criteria 1 that is beyond the control of the organization, the operator of the information system must immediately prepare an initial report on the incident to report such incident to the relevant agencies and a final report on response to the incident within five days after finishing responding to the incident. Moreover, if the information system of a trader, organization or individual engaged in e-commerce is attacked causing risk of loss of consumer’s information, the data controller must notify the authorities within 24 hours after the detection of incident.
+Normally, the data controller would be required to give relevant notifications to the following State authorities:
+
+
+Local police agency (i.e. Police Department of Cybersecurity and High-Tech Crime Prevention and Fighting under the MPS with regard to offshore service providers, provincial police department where the head office of data controller is located); and
+
+
+VNCERT/CC directly managed by the AIS under the MIC.
+
+Last modified 10 Jan 2022
+				
+			

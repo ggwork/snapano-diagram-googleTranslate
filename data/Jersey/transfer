@@ -1,0 +1,54 @@
+The DPJL (Article 67) provides that data controllers and processors may only transfer personal data out of the European Economic Area if one of the following conditions are met:
+
+The transfer is to a jurisdiction which has been held by the European Commission to provide an adequate level of protection for personal data.
+The transfer is made subject to ‘appropriate safeguards’ (Article 68 DPJL), which may include:
+
+A legally binding and enforceable instrument between public authorities
+Binding corporate rules approved by Jersey's Information Commissioner or another competent supervisory authority under the GDPR (or equivalent statutory provisions), or
+Standard data protection clauses adopted by the Authority or by a competent supervisory authority and approved by the European Commission. It should be noted that the EDPB approved a new set of standard contractual clauses in June 2021, which are expected to be approved by the Jersey Office of the Information Commissioner shortly.
+
+
+An exemption applies, the most commonly utilized of which are as follows:
+
+The transfer is specifically required by a Jersey court
+The data subject explicitly consents
+The transfer is necessary for the performance of a contract to which the data subject is party or the implementation of pre-contractual measures taken at the data subject’s request
+The transfer is necessary to carry out a contract between the data controller and a third party if the contract serves the data subject’s interests
+The transfer:
+
+Is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings)
+Is necessary for the purpose of obtaining legal advice, or
+Is otherwise necessary for the purposes of establishing, exercising or defending legal rights
+
+
+The transfer protects the data subject’s vital interests where:
+
+The data subject is physically or legally incapable of giving consent
+The data subject has unreasonably withheld consent, or
+The controller or processor cannot reasonably be expected to obtain the explicit consent of the data subject
+
+
+
+
+
+Transfers post Schrems II
+The burden on Jersey controllers and processors of transferring personal data to unauthorised jurisdictions has increased following the CJEU's Case C-311/18 Data Protection Commissioner v Facebook Ireland Limited, Maximillian Schrems and intervening parties ("Schrems II").
+The Jersey Information Commission confirmed that transfers in reliance of the EU-US Privacy Shield framework are no longer valid but that, following Schrems II, where Standard Contractual Clauses ("SCCs") are used, controllers (and where applicable processors) must ensure that they have considered their transfers and taken any steps appropriate to ensure that they are lawful.
+However, the guidance does not provide any assistance as to what steps need to be taken in order to &nbsp;ensure that the chosen safeguards are appropriate. The required approach has since been clarified by the European Data Protection Board which published Recommendations 01/2020 in June 2021 &nbsp;on measures that supplement transfer tools to ensure compliance with the EU level of protection of &nbsp;personal data (see below).
+The emphasis is now on controllers/processors to satisfy themselves that the transfers to unauthorised jurisdictions are properly assessed (taking into account the law and practice of the recipient jurisdiction) and, as appropriate, put in place supplementary measures.
+CJEU jurisprudence is not binding in Jersey, as Jersey is not an EU member state. However, it is likely to be persuasive (as is the EDPB guidance noted above).
+The EDPB guidance referenced above recommends a 6 step process in relation to international transfers. &nbsp;
+
+Know your transfers. Be aware of where the personal data so you know the level of protection provided there. Make sure the data you transfer is adequate, relevant and limited to what is necessary.
+Verify the transfer tool your transfer relies on.&nbsp;
+Assess if there is anything in the law and/or practices of the third country that may impinge on the effectiveness of the appropriate safeguards of the transfer tools you are relying on, in the context of your specific transfer.
+Identify and adopt supplementary measures necessary to bring the level of protection of the data transferred up to the EU standard of essential equivalence. This step is only necessary if your assessment has revealed issues with the third party country's safeguards. If no supplementary measure is suitable, the exporter must avoid, suspend or terminate the transfer.
+Take any formal procedural steps the adoption of your supplementary measure may require.
+Re-evaluate at appropriate intervals the level of protection afforded to the personal data you transfer to third countries and monitor if there have been or there will be any developments that may affect it. This is an ongoing duty.
+
+In practice, the above requires a detailed and documented transfer impact assessment ("TIA"). &nbsp;
+What about the UK?
+The European Commission has now recognised the UK as an adequate jurisdiction for the purposes of international data transfer, meaning that transfers to and from the UK and Jersey may continue without restriction.
+Jersey controllers and processors who are subject to the UK GDPR by virtue of its extra territoriality provisions will also need to consider whether they may need to continue using the existing standard contractual clauses – the UK is yet to make a decision on replacing them for the purposes of the UK GDPR.Last modified 21 Feb 2022
+				
+			

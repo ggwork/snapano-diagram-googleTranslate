@@ -1,0 +1,10 @@
+Under the PIPA, if a breach of personal information occurs the personal data controller must notify the data subjects without delay of the details and circumstances, and the remedial steps planned. If the number of affected data subjects is 1,000 or more, the personal data controller shall immediately report the notification to data subjects and the result of measures taken to PIPC or the Korea Internet &amp; Security Agency (“KISA”).
+Additionally, there is a special provision for Online Service Providers regarding data breach notification. When there is a data breach, the affected Online Service Provider is obligated to provide individual notices to online service users and file a personal information leakage report with the details of the leakage and the remedial steps planned to the PIPC or KISA, regardless of the number of affected data subjects.
+Furthermore, under the Network Act, an Online Service Provider must, if it discovers an occurrence of intrusion:
+
+report it to the Ministry of Science and ICT (“MSIT”) &nbsp;or KISA within 24 hours of knowledge of the intrusion, and
+analyze causes of intrusion and prevent damage from being spread, whenever an intrusion occurs.
+
+The MSIT may, if deemed necessary for analyzing causes of an intrusion, order an Online Service Provider to preserve relevant data, such as access records of the relevant information and communications network.Last modified 21 Dec 2021
+				
+			

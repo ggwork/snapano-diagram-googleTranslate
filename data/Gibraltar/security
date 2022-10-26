@@ -1,0 +1,10 @@
+The GDPR is not prescriptive about specific technical standards or measures. Rather, the GDPR adopts a proportionate, context-specific approach to security. Article 32 states that controllers and processors shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk of the processing. In so doing, they must take account of the state of the art, the costs of implementation, and the nature, scope, context and purposes of processing. A 'one size fits all' approach is therefore the antithesis of this requirement.
+However the GDPR does require controllers and processors to consider the following when assessing what might constitute adequate security:
+
+the pseudonymisation and encryption of personal data;
+the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident; and
+a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
+Last modified 22 Jan 2021
+				
+			

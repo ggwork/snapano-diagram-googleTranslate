@@ -1,0 +1,17 @@
+Each controller or processor is required to appoint a data protection officer if it satisfies one or more of the following tests:
+
+It is a public authority
+Its core activities consist of processing operations which, by virtue of their nature, scope or purposes, require regular and systemic monitoring of data subjects on a large scale
+Its core activities consist of processing sensitive personal data on a large scale
+
+Groups of undertakings are permitted to appoint a single data protection officer with responsibility for multiple legal entities (Article 37(2)), provided that the data protection officer is easily accessible from each establishment (meaning that larger corporate groups may find it difficult in practice to operate with a single data protection officer).
+DPOs must have "expert knowledge" (Article 37(5)) of data protection law and practices, though it is possible to outsource the DPO role to a service provider (Article 37(6)).
+Controllers and processors are required to ensure that the DPO is involved "properly and in a timely manner in all issues which relate to the protection of personal data" (Article 38(1)), and the DPO must directly report to the highest management level, must not be told what to do in the exercise of his or her tasks and must not be dismissed or penalized for performing those tasks (Article 38(3)).
+The specific tasks of the DPO, set out in GDPR, include (Article 39):
+
+To inform and advise on compliance with GDPR and other Union and Member State data protection laws
+To monitor compliance with the law and with the internal policies of the organization including assigning responsibilities, awareness raising and training staff
+To advise and monitor data protection impact assessments where requested
+To cooperate and act as point of contact with the supervisory authority
+
+This is a good example of an area of the GDPR where Member State gold plating laws are likely. For example, German domestic law has set the bar for the appointment of DPOs considerably lower than that set out in the GDPR.The Data Protection Law does not determine any derogations from the requirements which are set in the GDPR regarding data protection officers.

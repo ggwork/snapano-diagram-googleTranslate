@@ -1,0 +1,29 @@
+Cookie, logs, IP information, etc. are also regulated by the PIPA as personal information, which if combined with other information may enable the identification of a specific individual person easily. Under the PIPA, using cookies (or web beacons) must be done with the opt-out consent of the user and the privacy policy must publicize the matters concerning installation, operation and opt-out process for automated means of collecting personal information, such as cookies, logs and web beacons.
+The protection of location information is governed by the provisions of the Act on the Protection, Use, etc. of Location Information (“LBS Act”).
+Under the LBS Act, any person who intends to collect, use, or provide location information of a person or mobile object shall obtain the prior consent of the person or the owner of the object, unless:
+
+there is a request for emergency relief or the issuance of a warning by an emergency rescue and relief agency
+there is a request by the police for the rescue of the person whose life or physical safety is in immediate danger, or
+there exist special provisions in any Act.
+
+Under the LBS Act, any person (entity) who intends to provide services based on location information (“Location-based Service Provider”) shall report to the Korea Communications Commission (“KCC”). Further, any person (entity) who intends to collect location information and provide the collected location information to Location-based Service Providers (“Location Information Provider”) shall obtain a license from the KCC.
+If a Location-based Service Provider intends to provide location-based services by utilizing personal location information provided by a Location Information Provider, it must specify the following information in its service agreement, and obtain the consent of the subjects of personal location information:
+
+name, address, phone number and other contact information of the Location Information Provider
+rights held by the subjects of personal location information and their legal agents and methods of exercising the rights
+details of the services the Location Information Provider intends to provide to Location-based Service Providers
+grounds for and period of retaining data confirming the collection of location information, and
+methods of collecting location information.
+
+If a Location-based Service Provider intends to provide location-based services by utilizing personal location information provided
+by a Location Information Provider, it must specify the following information in its service agreement, and obtain the consent of the subjects of personal location information:
+
+name, address, phone number and other contact information of the Location-based Service Provider
+rights held by the subjects of personal location information and their legal agents and methods of exercising the rights
+details of the location-based services
+grounds for and period of retaining data confirming the use and provision of location information, and
+matters concerning notifying the personal location information subject of the provision of location information to a third party as below.
+
+If a Location-based Service Provider intends to provide location information to a third party, in addition to the above, it must&nbsp;notify the subjects of personal location information of the third party who will receive the location information and the purpose of this provision.Last modified 21 Dec 2021
+				
+			

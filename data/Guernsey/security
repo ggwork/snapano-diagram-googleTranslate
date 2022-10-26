@@ -1,0 +1,16 @@
+Security features more prominently under the DPL 2017 than its predecessor. Whilst implementing appropriate security measures to safeguard personal data from unauthorised or unlawful processing continues to be a feature of the DPL 2017 (see Principle 6 'Integrity and Confidentiality'), the DPL 2017 (unlike its predecessor) sets out with more clarity the steps required to ensure compliance.
+Data controllers must take reasonable steps to ensure a level of security which is appropriate to the personal data, taking into account the nature, scope, context and purpose of the processing, the likelihood and severity of the risks to data subjects if the personal data is not secure (including the risk of unlawful or accidental destruction, loss or alteration and / or unauthorised disclosure of personal data), best practice and the costs of implementing appropriate measures.&nbsp;
+Section 41 of the DPL 2017 provides some assistance as to what may be regarded as a reasonable 'step' to ensure appropriate security. In essence, to ensure compliance with this obligation, a controller should consider:
+
+pseudonymising and encrypting personal data
+ensuring that the controller or processor has and retains the ability to:
+
+ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services; and
+restore access to personal data in a timely manner in the event of a physical or technical incident; and
+
+
+establishing and implementing a process for regular testing and evaluation of the effectiveness of the technical and organisational measures.
+
+There are several provisions which touch on the security obligations, located throughout the DPL 2017. Thus, the key provisions not only appear in the main security section (Part VI of the DPL 2017) but also form a key consideration (amongst other things) when undertaking a data protection impact assessment, the right to erasure, a controller's duty to take reasonable steps to achieve compliance and the measures that should be in place when choosing a processor. For example, when assessing the suitability of a processor a controller must ensure that the processor provides sufficient guarantees that reasonable technical and organisational security measures governing the processing will be established to meet the requirements of the DPL 2017.Last modified 5 Jan 2021
+				
+			

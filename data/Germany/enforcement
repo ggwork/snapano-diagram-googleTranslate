@@ -1,0 +1,39 @@
+Fines
+The GDPR empowers supervisory authorities to impose fines of up to 4% of annual worldwide turnover, or EUR 20 million (whichever is higher).
+It is the intention of the European Commission that fines should, where appropriate, be imposed by reference to the revenue of an economic undertaking rather than the revenues of the relevant controller or processor. Recital 150 of the GDPR states that 'undertaking' should be understood in accordance with Articles 101 and 102 of the Treaty on the Functioning of the European Union, which prohibit anti-competitive agreements between undertakings and abuse of a dominant position. Unhelpfully, the Treaty does not define ‘undertaking’ and the extensive case-law is not entirely straightforward, with decisions often turning on the specific facts of each case. However, in many competition cases, group companies have been regarded as part of the same undertaking. The assessment will turn on the facts of each case, and the first test cases under the GDPR will need to be scrutinised carefully to understand the interpretation of ‘undertaking’. Under EU competition law case-law, there is also precedent for regulators to impose joint and several liability on parent companies for fines imposed on those subsidiaries in some circumstances (broadly where there is participation or control), so-called "look through" liability. Again, it remains to be seen whether there will be a direct read-across of this principle into GDPR enforcement.
+Fines are split into two broad categories.&nbsp;The highest fines (Article 83(5)) of up to EUR 20 million or, in the case of an undertaking, up to 4% of total worldwide turnover of the preceding year, whichever is higher, apply to infringement of:
+
+the basic principles for processing including conditions for consent;
+data subjects’ rights;
+international transfer restrictions;
+any obligations imposed by Member State law for special cases&nbsp;such as processing employee data; and
+certain orders of a supervisory authority.
+
+The lower category of fines (Article 83(4)) of up to EUR 10 million or, in the case of an undertaking, up to 2% of total worldwide turnover of the preceding year, whichever is the higher, apply to infringement of:
+
+obligations of controllers and processors, including security and data breach notification obligations;
+obligations of certification bodies; and
+obligations of a monitoring body.
+
+Supervisory authorities are not required to impose fines but must ensure in each case that the sanctions imposed are effective, proportionate and dissuasive (Article 83(1)).
+Fines can be imposed in combination with other sanctions.
+Investigative and corrective powers
+Supervisory authorities also enjoy wide investigative and corrective powers (Article 58) including the power to undertake on-site data protection audits and the power to issue public warnings, reprimands and orders to carry out specific remediation activities.
+Right to claim compensation
+The GDPR makes specific provision for individuals to bring private claims against controllers and processors:
+
+any person who has suffered "material or non-material damage" as a result of a breach of the GDPR has the right to receive compensation (Article 82(1)) from the controller or processor. The inclusion of “non-material” damage means that individuals will be able to claim compensation for distress even where they are not able to prove financial loss.
+data subjects have the right to mandate a consumer protection body to exercise rights and bring claims on their behalf (Article 80).
+
+Individuals also enjoy the right to lodge a complaint with a supervisory authority (Article 77).&nbsp;
+All natural and legal persons, including individuals, controllers and processors, have the right to an effective judicial remedy against a decision of a supervisory authority concerning them or for failing to make a decision (Article 78).
+Data subjects enjoy the right to an effective legal remedy against a controller or processor (Article 79).In October 2019 the German data protection authorities published guidelines for calculating administrative fines against ‘business undertakings’ under Article 83 GDPR. The guidelines set out a five step methodology which all German DPAs are expected to follow to secure a ‘comprehensible, transparent and just’ approach when calculating the amount of a specific fine:
+
+Categorize the undertaking based on annual turnover (for group undertakings, the categorization will be based on the turnover of the entire group, not just the entity responsible for the infringement);
+Determine the average annual turnover (this will be determined by reference the category the undertaking has been assigned); Calculate the average daily turnover (so called economic base value);
+Multiply the base value by a factor reflecting the seriousness of the infringement;
+Apply a modifying factor (if required) to address any wider circumstances associated with the infringement not yet taken into account.
+
+For more information on the guidelines, please refer to our article in the DLA Piper blog&nbsp;Privacy Matters, which gives a comprehensive overview of the five steps and can be found here.
+As outlined above, regarding the enforcement the German Authorities declared that they are of the opinion that the fines will not only be calculated based on the turnover of the specific affected company, but of the entire group of undertakings. However, whether this interpretation of Art. 83 (4), (5) and (6) GDPR in connection with Recital 150 GDPR is correct is currently highly disputed in Germany with solid arguments against this broad interpretation. The enforcement of fines is subject to the Act on Regulatory Offences (Gesetz über Ordnungswidrigkeiten&nbsp;– ‘OWiG’), other sanctions,&nbsp;eg,&nbsp;a temporary or definitive limitation or ban on processing, is subject to the rules regarding administrative procedures.
+Whether the purely revenue-based guidelines can form the basis for determining a fine is highly disputed. One German court has already come to the conclusion that this type of fine determination is disproportionate. It is therefore possible that the guidelines will be reviewed and amended by the German Authorities.

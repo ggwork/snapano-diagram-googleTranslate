@@ -1,0 +1,27 @@
+Database holders and data handlers must adopt technical, organizational and legal measures necessary to guarantee the security of the personal data they hold. The measures taken must ensure a level of security appropriate to the nature and purpose of the personal data involved.
+The Agency has passed a Directorial Resolution Nº 019-2013-JUS/DGPDP (hereafter, the 'Security Directive'). This Security Directive establishes different standards depending on the features of the database, including:
+
+Number of data subjects whose data are contained in the database
+Number of fields of the database (eg, name, address, phone number)
+Existence of sensitive data
+Owner of the database (an individual or entity)
+
+The following security measures must be taken with respect to the loss of a personal data bank:
+
+Backup copies of personal data must be made to allow recovery in case of loss or destruction
+Any recovery of personal data, from the backup, must have the authorization of the person in charge of the personal data bank
+Proof of recovery of personal data must be performed to verify that backup copies can be used if they are required
+
+For digital information, it is important to mention that the computer systems that handle databases or process personal data must include in their operation records that keep all types of interaction with logical data, so as to identify the users, changes, consultations, starting and closing hours of a session and other actions that are carried out. These records will allow the access of competent, authorized and identified personnel only.
+Further, it is necessary to establish the following:
+
+Security measures related to the authorized accesses to the data by procedures of identification and authentication that guarantee the confidentiality and integrity of the data
+Necessary mechanisms for correct application of the procedures for making backup copies and recovery of the data in order to guarantee the reconstruction in the status they had at the time of the loss or destruction
+
+The applicable measures in which the information must be processed, stored or transmitted—taking into account the controls, policies, standards and recommendations related to physical and environmental security—are established in the following documents:
+
+Peruvian Technical Standards 'NTP- ISO/IEC 17799: 2007 EDI. Technology of Information. Code of Good Practice for the management of the security of the information. 2nd Edition'
+'NTP ISO/IEC 27001: 2008 EDI Technology of Information. Security Techniques. Systems of Management of Information Security. Requisites.'
+Last modified 24 Jan 2022
+				
+			

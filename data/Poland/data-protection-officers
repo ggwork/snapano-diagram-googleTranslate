@@ -1,0 +1,20 @@
+Each controller or processor is required to appoint a data protection officer if it satisfies one or more of the following tests:
+
+It is a public authority
+Its core activities consist of processing operations which, by virtue of their nature, scope or purposes, require regular and systemic monitoring of data subjects on a large scale
+Its core activities consist of processing sensitive personal data on a large scale
+
+Groups of undertakings are permitted to appoint a single data protection officer with responsibility for multiple legal entities (Article 37(2)), provided that the data protection officer is easily accessible from each establishment (meaning that larger corporate groups may find it difficult in practice to operate with a single data protection officer).
+DPOs must have expert knowledge&nbsp;(Article 37(5)) of data protection laws and practices, though it is possible to outsource the DPO role to a service provider (Article 37(6)).
+Controllers and processors are required to ensure that the DPO is involved "properly and in a timely manner in all issues which relate to the protection of personal data" (Article 38(1)), and the DPO must directly report to the highest management level, must not be told what to do in the exercise of his or her tasks and must not be dismissed or penalized for performing those tasks (Article 38(3)).
+The specific tasks of the DPO, set out in GDPR, include (Article 39):
+
+To inform and advise on compliance with GDPR and other Union and Member State data protection laws
+To monitor compliance with the law and with the internal policies of the organization including assigning responsibilities, awareness raising and training staff
+To advise and monitor data protection impact assessments where requested
+To cooperate and act as point of contact with the supervisory authority
+
+This is a good example of an area of the GDPR where Member State gold plating laws are likely. For example, German domestic law has set the bar for the appointment of DPOs considerably lower than that set out in the GDPR.According to the new PDPA, the appointment of a Data Protection Officer (DPO) must be notified to the supervisory authority within 14 days. The notification should include the name and email address of the DPO or his or her phone number. Any changes to the information provided or the dismissal of a DPO should also be notified within 14 days. The entity who appointed the DPO shall make available the DPO's details on its website or in a generally accessible manner at a place of pursuit of activity (if it does not have its own website). According to official guidance&nbsp;from the Polish DPA, the contact details of the DPO should be easily accessible, not hidden somewhere in long documents such as a privacy policy etc.
+The Implementing act includes the possibility to designate a person to replace the DPO during their absence (eg,&nbsp;temporary absence). However, it would be necessary to inform the Polish DPA about the designation in the same way as about the designation of a DPO. All rules and requirements for DPOs, such as the ones stated in article 37 of the GDPR or the obligation to inform the Polish DPA are also applicable to this person.
+If a person was officially appointed as an Information Security Officer (ABI) under the previous PDPA, this person automatically became a DPO for the data controller until September 1, 2018, and provided that&nbsp;the appointment&nbsp;was notified to the President of the Office before that date, the person continues to serve as a DPO after that date.
+If the data controller is obliged to appoint a DPO in accordance with Article 37 of the GDPR but did not appoint one under the previous PDPA, the appointment of the DPO&nbsp;should have taken&nbsp;place and been&nbsp;notified to the President of the Office before July 31, 2018.

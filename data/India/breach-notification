@@ -1,0 +1,46 @@
+The government of India has established and authorized the Indian Computer Emergency Response Team ("Cert-In") to collect, analyze and disseminate information on cyber incidents, provide forecasts and alerts of cybersecurity incidents, provide emergency measures for handling cybersecurity incidents and coordinate cyber incident response activities.
+The Information Technology (the Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013 ("Cert-In Rules") impose mandatory notification requirements on service providers, intermediaries, data centers and corporate entities, upon the occurrence of certain cybersecurity incidents.
+Cybersecurity incidents have been defined to mean any real or suspected adverse events, in relation to cybersecurity, that violate any explicitly or implicitly applicable security policy, resulting in:
+
+Unauthorized access, denial or disruption of service
+
+
+Unauthorized use of a computer resource for processing or storage of information
+
+
+Changes to data or&nbsp;information without authorization
+
+The occurrence of the following types of cybersecurity incidents trigger the notification requirements under the Cert-In Rules:
+
+Targeted scanning or probing of critical networks or systems
+
+
+Compromise of critical information or system
+
+
+Unauthorized access of IT systems or data
+
+
+Defacement of websites or intrusion into websites and unauthorized changes, such as inserting malicious codes or links to external websites
+
+
+Malicious code attacks such as spreading viruses, worms, Trojans, Botnets or Spyware
+
+
+Attacks on servers such as Database, Mail and DNS or network devices such as Routers
+
+
+Identity theft, Spoofing and phishing attacks
+
+
+Denial of service (DoS) and Distributed Denial of service (DDoS) attacks
+
+
+Attacks on critical infrastructure, SCADA systems and wireless networks
+
+
+Attacks on applications such as e-governance and e-commerce
+
+Upon the occurrence of any of the aforementioned events, companies are required to notify the Cert-In within reasonable time, so as to leave scope for appropriate action by the authorities. However, it is important to follow breach notice obligations, which would depend upon the "place of occurrence of such breaches" and whether or not Indian customers have been targeted. The format and procedure for reporting of cybersecurity incidents have been provided by Cert-In on its&nbsp;official website.Last modified 30 Nov 2021
+				
+			

@@ -1,0 +1,142 @@
+Controllers are responsible for compliance with a set of core principles that apply to all processing of personal data. Under these principles, personal data must be (Article 8(1) DPJL):
+
+Processed lawfully, fairly and in a transparent manner in relation to the data (‘lawfulness, fairness and transparency’)
+Collected for specified, explicit and legitimate purposes and once collected, not further processed in a manner incompatible with those purposes (‘purpose limitation’)
+Adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimization’)
+Accurate and, where necessary, kept up-to-date, with reasonable steps being taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’)
+Kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the data are processed (‘storage limitation’) and
+Processed in a manner that ensures appropriate security of the data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures (‘integrity and confidentiality’)
+
+Additionally, the controller is responsible for and must be able to demonstrate compliance with the above principles (‘accountability’) (Article 6(1)(a) DPJL).
+Accountability is a core theme of the DPJL. Organizations must not only comply with the DPJL, but also be able to&nbsp;demonstrate&nbsp;compliance, perhaps years after a particular decision relating to processing personal data was taken. Record-keeping, audit and appropriate governance will all form a key role in achieving (and being able to demonstrate) accountability.
+Legal Basis for Processing
+The DPJL works slightly differently to the GDPR in terms of establishing a legal basis for processing.
+Data controllers may collect and process personal data when any of a number of conditions are met (Article 9 and Schedule 2 DPJL). The most frequently relied upon are as follows:
+
+The consent of the data subject
+The processing is necessary for:
+
+The performance of a contract to which the data subject is a party, or
+The taking of steps at the request of the data subject with a view to entering into a contract
+
+
+The processing is necessary to comply with a data controller’s legal obligations (other than one imposed by contract)
+The processing is necessary to protect the data controller’s vital interests
+The processing is necessary for:
+
+The administration of justice
+The exercise of any functions conferred on any person by or under any enactment
+The processing is necessary for taking legal advice or the establishment, exercise or defense of legal claims
+
+
+
+The exercise of any functions of the Crown, the States or any public authority, or
+The exercise of any other functions of a public nature with a legal basis in Jersey law to which the controller is subject and exercised in the public interest by any person
+The processing is necessary for the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, unless:
+
+The processing is unwarranted in any particular case by reason of prejudice to the rights and freedoms or legitimate interests of the data subject, in particular where the subject is a child, or
+The controller is a public authority, or
+
+
+The processing is necessary for reasons of substantial public interest provided for by law and is subject to appropriate protections to protect the rights and interests of the data subject
+
+
+Special Categories of Data
+Where special category personal data is processed, at least one of a more restrictive list of conditions than those for personal data must be satisfied (Article 9 and Schedule 2 Part 2 DPJL). Unlike the GDPR, personal data may also be processed on the basis of the conditions for processing special category data. The most frequently relied upon bases for processing special category data are as follows:
+
+The explicit consent of the data subject
+The processing is necessary to comply with a data controller’s legal obligations (other than one imposed by contract)
+The processing is necessary for the purposes of exercising or performing any right, obligation or public function conferred or imposed by law on the controller in connection with employment, social security, social services or social care
+The processing is necessary for taking legal advice or the establishment, exercise or defense of legal claims
+The processing is necessary for reasons of substantial public interest provided for by law and is subject to appropriate protections to protect the rights and interests of the data subject
+The processing is necessary to protect the vital interests of the data subject or of another natural person where the data subject is physically or legally incapable of giving consent
+The processing relates to personal data which are manifestly made public by the data subject
+The processing is necessary for archiving or research
+The processing is necessary for the prevention of unlawful acts (or malpractice / mismanagement)
+The processing is necessary for certain insurance-based purposes, or
+The processing is necessary for medical purposes and is undertaken by a health professional
+
+Processing for a Secondary Purpose
+Increasingly, organizations wish to 're-purpose' personal data (ie, use data collected for one purpose for a new purpose which was not disclosed to the data subject at the time the data were first collected). This is potentially in conflict with the core principle of purpose limitation, which aims to ensure that the rights of data subjects are protected. The DPJL sets out a series of factors that the controller must consider to ascertain whether the new process is compatible with the purposes for which the personal data were initially collected (Article 13 DPJL)). These include:
+
+Any link between the original purpose and the new purpose
+The context in which the data have been collected
+The nature of the personal data, in particular whether special categories of data or data relating to criminal convictions are processed (with the inference being that if they are, it will be much harder to form the view that a new purpose is compatible)
+The possible consequences of the new processing for the data subjects, and
+The existence of appropriate safeguards
+
+Transparency
+The data controller must provide the data subject with “fair processing information” (Article 12 DPJL), which includes:
+
+The identity and contact details of the controller, and where applicable, the controller’s representative
+The contact details of the data protection officer (if any)
+The purposes for which the data are intended to be processed and the legal basis for the processing
+An explanation of the legitimate interests pursued by the controller or by a third party, if the processing is based on those interests
+The recipients or categories of recipients of the personal data (if any)
+Where applicable, the fact that the controller intends to transfer personal data to a third country or international organization and whether or not there is an adequate level of protection for the rights and freedoms of data subjects in that country or organization
+The period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period
+Information concerning the rights of data subjects
+Where the processing is based on consent, the existence of the right to withdraw consent
+The existence of any automated decision-making and any meaningful information about the logic involved in such decision-making and the significance of any such decision-making for the data subject
+A statement of the right to complain to the Information Commissioner
+Whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether the data subject is obliged to provide the personal data and the possible consequences of failing to provide such data
+Where the personal data are not obtained directly from the data subject, information identifying the source of the data
+Any further information that is necessary, having regard to the specific circumstances in which the data are or are to be processed, to enable processing in respect of the data subject to be fair
+
+Rights of the Data Subject
+Data subjects enjoy a range of rights to control the processing of their personal data, some of which are very broadly applicable, while others only apply in limited circumstances.&nbsp;Controllers must provide information on action taken in response to requests within four weeks as a default, with a limited right for the controller to extend this period a further eight weeks where the request is onerous. These periods are slightly shorter than those set out in the GDPR.
+Right of access (Article 28 DPJL)
+A data subject is entitled to request access to and obtain a copy of his or her personal data, together with prescribed information about the how the data have been used by the controller.
+Right to rectify (Article 31 DPJL)
+Data subjects may require inaccurate or incomplete personal data to be corrected or completed without undue delay.
+Right to erasure ('right to be forgotten') (Article 32 DPJL)
+Data subjects may request erasure of their personal data.
+The right is not absolute; it only arises in a narrow set of circumstances, notably where the controller no longer needs the data for the purposes for which they were collected or otherwise lawfully processed, or as a corollary of the successful exercise of the objection right, or of the withdrawal of consent.
+Right to restriction of processing (Article 33 DPJL)
+Data subjects enjoy a right to restrict processing of their personal data in defined circumstances. These include where the accuracy of the data is contested; where the processing is unlawful; where the data are no longer needed other than for legal claims of the data subject or where the legitimate grounds for processing by the controller are contested.
+Right to data portability (Article 34 DPJL)
+Where the processing of personal data is justified either on the basis that the data subject has given his or her consent to processing or where processing is necessary for the performance of a contract, then the data subject has the right to receive or have transmitted to another controller all personal data concerning him or her in a structured, commonly used and machine-readable format.
+Right to object (Article 21 DPJL)
+Data subjects have the right to object to processing on the legal basis of the legitimate interests of the data controller or where processing is for a public function. Controllers will then have to suspend processing of the data until such time as they demonstrate ‘compelling legitimate grounds’ for processing that override the rights of the data subject.
+In addition, data subjects enjoy an unconditional right to object to the processing of personal data for direct marketing purposes at any time (Article 36 DPJL).&nbsp;
+The right not to be subject to automated decision taking, including profiling (Article 38 DPJL)
+Automated decision-making (including profiling) "which produces legal effects concerning [the data subject] … or similarly significantly affects him or her" is only permitted where:&nbsp;
+
+
+
+Necessary for entering into or performing a contract
+Authorized by Jersey law or by the law of another jurisdiction in the British Isles or by EU or member state law, or&nbsp;
+The data subject has given their explicit consent
+
+
+
+Further, where significant automated decisions are taken on the basis of grounds (a) or (c), the controller must implement suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, including the right to obtain human intervention on the part of the controller, so that the data subject can express his or her point of view and contest the decision.
+Children’s consent to information society services (Article 11(4))
+Article 11(4) of the DPJL stipulates that a child may only provide his or her own consent to processing in respect of information society (primarily, online) services, where that child is over 13 years of age. Otherwise, a parent (or other responsible adult) must provide consent on the child’s behalf.
+Processing agreements
+The rules on agreements (or other legally binding instruments) between controllers and processors have been significantly enhanced.
+The controller must appoint the processor in the form of a binding written agreement that sets out:
+
+The subject matter and duration of the processing
+The nature and purpose of the processing
+The type of personal data and categories of data subjects, and
+The obligations and rights of the controller
+
+The agreement must also provide that the processor must:
+
+Only act on the controller's documented instructions (unless legally obliged to do otherwise)
+Impose confidentiality obligations on all personnel who process the relevant data
+Ensure the security of the personal data that it processes
+Abide by the rules regarding appointment of sub-processors
+Implement measures to assist the controller in complying with the rights of data subjects
+Assist the controller in:
+
+Complying with its data security obligations
+Complying with its personal data breach obligations (both to a supervisory authority and individual data subjects), and
+Completing Data Protection Impact Assessments and obtaining approvals from Supervisory Authorities where required
+
+At the controller's election, either return or destroy the personal data at the end of the relationship (except as required by law), and
+Provide the controller with all information necessary to demonstrate compliance with the DPJL, which, in practice, means complying with an audit/inspection regime
+Last modified 21 Feb 2022
+				
+			

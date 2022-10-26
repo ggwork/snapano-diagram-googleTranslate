@@ -1,0 +1,21 @@
+Each controller or processor is required to appoint a data protection officer if it satisfies one or more of the following tests:
+
+it is a public authority;
+its core activities consist of processing operations which, by virtue of their nature, scope or purposes, require regular and systemic monitoring of data subjects on a large scale; or
+its core activities consist of processing sensitive personal data on a large scale.
+
+Groups of undertakings are permitted to appoint a single data protection officer with responsibility for multiple legal entities (Article 37(2)), provided that the data protection officer is easily accessible from each establishment (meaning that larger corporate groups may find it difficult in practice to operate with a single data protection officer).
+DPOs must have "expert knowledge" (Article 37(5)) of data protection law and practices, though it is possible to outsource the DPO role to a service provider (Article 37(6)).
+Controllers and processors are required to ensure that the DPO is involved "properly and in a timely manner in all issues which relate to the protection of personal data" (Article 38(1)), and the DPO must directly report to the highest management level, must not be told what to do in the exercise of his or her tasks and must not be dismissed or penalised for performing those tasks (Article 38(3)).
+The specific tasks of the DPO, set out in GDPR, include (Article 39):
+
+to inform and advise on compliance with GDPR and other Union and Member State data protection laws;
+to monitor compliance with the law and with the internal policies of the organization including assigning responsibilities, awareness raising and training staff;
+to advise and monitor data protection impact assessments where requested; and
+to cooperate and act as point of contact with the supervisory authority.
+
+This is a good example of an area of the GDPR where Member State gold plating laws are likely. For example, German domestic law has set the bar for the appointment of DPOs considerably lower than that set out in the GDPR.The threshold to designate a Data Protection Officer (DPO) is much lower in the BDSG. The controller and processor has to designate a DPO if they constantly employ as a rule at least 20 persons dealing with the automated processing of personal data, Sec. 38 (1) first sentence BDSG. The meaning of ‘automated processing’ is interpreted broadly by the German Authorities. It basically covers every employee who works with a computer.
+If the threshold of 20 persons is not reached, Sec. 38 (1) second sentence BDSG regulates in addition to Art. 37 GDPR, that a DPO has to be designated in case the controller or processor undertakes processing subject to a data protection impact assessment pursuant to Art. 35 GDPR, or if they commercially process personal data for the purpose of transfer, of anonymized transfer or for purposes of market or opinion research.
+Furthermore, a dismissal protection for the DPO is provided in Sec. 38 (2) in conjunction with Sec. 6 (4) BDSG. Where the controller or processor is obliged to appoint a DPO, the dismissal of a DPO who is an employee is only permitted in case there are facts which give the employing entity just cause to terminate without notice. After the activity as DPO has ended, a DPO who is an employee may not be terminated for a year following the end of appointment, unless the employing entity has just cause to terminate without notice.
+Additionally, Sec. 38 (2) in conjunction with Sec. 6 (5) and (6) BDSG stipulates that the DPO shall be bound by secrecy concerning the identity of data subjects and concerning circumstances enabling data subjects to be identified, unless he / she is released from this obligation by the data subject. Also, the DPO has the right to refuse to give evidence under certain conditions.
+Moreover, the German Authorities require that the DPO speaks the language of the competent Authorities and data subjects,&nbsp;ie&nbsp;German, or at least that instant translation is ensured.

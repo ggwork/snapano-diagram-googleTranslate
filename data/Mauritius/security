@@ -1,0 +1,21 @@
+Under the DPA 2017, a controller or processor must, at the time of the determination of the means for processing and at the time of the processing, &nbsp;implement and maintain appropriate security and organizational measures for the prevention of unauthorized access to, alteration, disclosure or destruction of, or the accidental loss of the personal data.
+Additionally, the controller or processor must ensure that measures provide a level of security appropriate to the harm that may result from the unauthorized access to, alteration, disclosure or destruction of, or the accidental loss of the personal data and the nature of the personal data concerned.
+The measures referred to above shall include all of the following:
+
+The pseudonymization and encryption of personal data
+The ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services
+The ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident
+A process for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures for ensuring the security of the processing
+
+In determining the appropriate security measures, in particular, where the processing involves the transmission of data over an information and communication network, a data controller shall have regard to the:
+
+State of technological development available
+Cost of implementing any of the security measures
+Special risks that exist in the processing of the data, and
+Nature of the data being processed
+
+Where a controller is using the services of a processor – (a) the controller must choose a processor that is able to provide sufficient guarantees in respect of security and organizational measures for the purpose of complying with the security measures described above; and (b) the controller and the processor shall enter into a written contract which shall provide that – (i) the processor shall act only on instructions received from the controller; and (ii) the processor shall be bound by obligations of the controller as regards security measures to be taken.
+If the purpose for keeping personal data has lapsed, the controller must destroy such data as soon as reasonably practicable and notify any data processor holding such data, who in turn must destroy the data specified by the controller as soon as is reasonably practicable.
+Every controller or processor has to take all reasonable steps to ensure that any person employed by him or it is aware of, and complies with, the relevant security measures.Last modified 21 Feb 2022
+				
+			

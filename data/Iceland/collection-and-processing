@@ -1,0 +1,117 @@
+Data Protection Principles
+Controllers are responsible for compliance with a set of core principles which apply to all processing of personal data. Under these principles, personal data must be (Article 5):
+
+processed lawfully, fairly and in a transparent manner (the "lawfulness, fairness and transparency principle");
+collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes (the "purpose limitation principle");
+adequate, relevant and limited to what is necessary in relation to the purpose(s) (the "data minimization principle");
+accurate and where necessary kept up-to-date (the "accuracy principle");
+kept in a form which permits identification of data subjects for no longer than is necessary for the purpose(s) for which the data are processed (the "storage limitation principle"); and
+processed in a manner that ensures appropriate security of the personal data, using appropriate technical and organizational measures (the "integrity and confidentiality principle").
+
+The controller is responsible for and must be able to demonstrate compliance with the above principles (the "accountability principle"). Accountability is a core theme of the GDPR. Organizations must not only comply with the GDPR but also be able to demonstrate compliance perhaps years after a particular decision relating to processing personal data was taken. Record-keeping, audit and appropriate governance will all form a key role in achieving accountability.
+Legal Basis under Article 6
+In addition, in order to satisfy the lawfulness principle, each use of personal data must be justified by reference to an appropriate basis for processing. The legal bases (also known lawful bases or lawful grounds) under which personal data may be processed are (Article 6(1)):
+
+with the consent of the data subject (where consent must be "freely given, specific, informed and unambiguous", and must be capable of being withdrawn at any time);
+where necessary for the performance of a contract to which the data subject is party, or to take steps at the request of the data subject prior to entering into a contract;
+where necessary to comply with a legal obligation (of the EU) to which the controller is subject;
+where necessary to protect the vital interests of the data subject or another person (generally recognized as being limited to 'life or death' scenarios, such as medical emergencies);
+where necessary for the performance of a task carried out in the public interest, or in the exercise of official authority vested in the controller; or
+where necessary for the purposes of the legitimate interests of the controller or a third party (which is subject to a balancing test, in which the interests of the controller must not override the interests or fundamental rights and freedoms of the data subject. Note also that this basis cannot be relied upon by a public authority in the performance of its tasks).
+
+Special Category Data
+Processing of special category data is prohibited (Article 9), except where one of the following exemptions applies (which, in effect, operate as secondary bases which must be established for the lawful processing of special category data, in addition to an Article 6 basis):
+
+with the explicit consent of the data subject;
+where necessary for the purposes of carrying out obligations and exercising rights under employment, social security and social protection law or a collective agreement;
+where necessary to protect the vital interests of the data subject or another natural person who is physically or legally incapable of giving consent;
+in limited circumstances by certain not-for-profit bodies;
+where processing relates to the personal data which are manifestly made public by the data subject;
+where processing is necessary for the establishment, exercise or defence of legal claims or where courts are acting in their legal capacity;
+where necessary for reasons of substantial public interest on the basis of Union or Member State law, proportionate to the aim pursued and with appropriate safeguards;
+where necessary for preventative or occupational medicine, for assessing the working capacity of the employee, medical diagnosis, provision of health or social care or treatment of the management of health or social care systems and services;
+where necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of health care and of medical products and devices; or
+where necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with restrictions set out in Article 89(1).
+
+Member States are permitted to introduce domestic laws including further conditions and limitations for processing with regard to processing genetic data, biometric data and health data.
+Criminal Convictions and Offences data
+Processing of personal data relating to criminal convictions and offences is prohibited unless carried out under the control of an official public authority, or specifically authorized by Member State domestic law (Article 10).
+Processing for a Secondary Purpose
+Increasingly, organizations wish to 're-purpose' personal data -&nbsp;ie, use data collected for one purpose for a new purpose which was not disclosed to the data subject at the time the data were first collected. This is potentially in conflict with the core principle of purpose limitation; to ensure that the rights of data subjects are protected. The GDPR sets out a series of factors that the controller must consider to ascertain whether the new process is compatible with the purposes for which the personal data were initially collected (Article 6(4)). These include:
+
+any link between the original purpose and the new purpose
+the context in which the data have been collected
+the nature of the personal data, in particular whether special categories of data or data relating to criminal convictions are processed (with the inference being that if they are it will be much harder to form the view that a new purpose is compatible)
+the possible consequences of the new processing for the data subjects
+the existence of appropriate safeguards, which may include encryption or pseudonymization.
+
+If the controller concludes that the new purpose is incompatible with the original purpose, then the only bases to justify the new purpose are consent or a legal obligation (more specifically an EU or Member State law which constitutes a necessary and proportionate measure in a democratic society).
+Transparency (Privacy Notices)
+The GDPR places considerable emphasis on transparency,&nbsp;ie, the right for a data subject to understand how and why his or her data are used, and what other rights are available to data subjects to control processing. The presentation of granular, yet easily accessible, privacy notices should, therefore, be seen as a cornerstone of GDPR compliance.
+Various information must be provided by controllers to data subjects in a concise, transparent and easily accessible form, using clear and plain language (Article 12(1)).
+The following information must be provided (Article 13) at the time the data are obtained:&nbsp;
+
+the identity and contact details of the controller;
+the data protection officer's contact details (if there is one);
+both the purpose for which data will be processed and the legal basis for processing, including, if relevant, the legitimate interests for processing;
+the recipients or categories of recipients of the personal data;
+details of international transfers;
+the period for which personal data will be stored or, if that is not possible, the criteria used to determine this;
+the existence of rights of the data subject including the right to access, rectify, require erasure, restrict processing, object to processing and data portability;
+where applicable, the right to withdraw consent, and the right to complain to supervisory authorities;
+the consequences of failing to provide data necessary to enter into a contract;
+the existence of any automated decision making and profiling and the consequences for the data subject; and
+in addition, where a controller wishes to process existing data for a new purpose, they must inform data subjects of that further processing, providing the above information.
+
+Somewhat different requirements apply (Article 14) where information has not been obtained from the data subject.
+Rights of the Data Subject
+Data subjects enjoy a range of rights to control the processing of their personal data, some of which are very broadly applicable, whilst others only apply in quite limited circumstances. Controllers must provide information on action taken in response to requests within one calendar month as a default, with a limited right for the controller to extend this period thereby a further two months where the request is onerous.
+Right of access (Article 15)
+A data subject is entitled to request access to and obtain a copy of his or her personal data, together with prescribed information about the how the data have been used by the controller.
+Right to rectify (Article 16)
+Data subjects may require inaccurate or incomplete personal data to be corrected or completed without undue delay.
+Right to erasure ('right to be forgotten') (Article 17)
+Data subjects may request erasure of their personal data. The forerunner of this right made headlines in 2014 when Europe’s highest court ruled against Google (Judgment of the CJEU in Case C-131/12), in effect requiring Google to remove search results relating to historic proceedings against a Spanish national for an unpaid debt on the basis that Google as a data controller of the search results had no legal basis to process that information.
+The right is not absolute; it only arises in quite a narrow set of circumstances, notably where the controller no longer needs the data for the purposes for which they were collected or otherwise lawfully processed, or as a corollary of the successful exercise of the objection right, or of the withdrawal of consent.
+Right to restriction of processing (Article 18)
+Data subjects enjoy a right to restrict processing of their personal data in defined circumstances. These include where the accuracy of the data is contested; where the processing is unlawful; where the data are no longer needed save for legal claims of the data subject, or where the legitimate grounds for processing by the controller are contested.
+Right to data portability (Article 20)
+Where the processing of personal data is justified either on the basis that the data subject has given his or her consent to processing or where processing is necessary for the performance of a contract, then the data subject has the right to receive or have transmitted to another controller all personal data concerning him or her in a structured, commonly used and machine-readable format (eg, commonly used file formats recognized by mainstream software applications, such as .xsl).
+Right to object (Article 21)
+Data subjects have the right to object to processing on the legal basis of the legitimate interests of the data controller or where processing is in the public interest. Controllers will then have to suspend processing of the data until such time as they demonstrate “compelling legitimate grounds” for processing which override the rights of the data subject.
+In addition, data subjects enjoy an unconditional right to object to the processing of personal data for direct marketing purposes at any time.&nbsp;
+The right not to be subject to automated decision making, including profiling (Article 22)
+Automated decision making (including profiling) "which produces legal effects concerning [the data subject] … or similarly significantly affects him or her" is only permitted where:&nbsp;
+
+necessary for entering into or performing a contract;
+authorized by EU or Member State law; or&nbsp;
+the data subject has given their explicit (ie, opt-in) consent.
+
+Further, where significant automated decisions are taken on the basis of grounds (a) or (c), the data subject has the right to obtain human intervention, to contest the decision, and to express his or her point of view.Criminal convictions and offences data (Article 10)
+According to Article 12 of the DPA, processing of personal data relating to criminal convictions and offences is subject to certain conditions and the processing must be based on one of the legal basis in Article 9 of the DPA, cf. Article 6(1) of the GDPR.
+According to Article 12(1) of the DPA, authorities may not process data relating to criminal convictions and offences unless it is necessary for the purpose of their statutory tasks.
+According to Article 12(2) of the DPA, the data cannot be disclosed unless:
+
+the data subject has explicitly given its consent for the disclosure
+disclosure is necessary for the legitimate interests of the public or private sector which obviously outweigh the interests of the confidentiality of the data, including the interests of the data subject
+the disclosure is necessary for the legitimate tasks of the relevant authority or for the authority’s decision or disclosure is necessary for public-sector projects that have been legally assigned to private parties
+
+Private entities cannot process information on criminal convictions and offences unless the data subject has given its explicit consent or the processing is necessary for legitimate interests which obviously outweigh the interest of the data subject.
+Children's consent to information society services (Article 8)
+Article 8(1) of the GDPR stipulates that a child may only provide their own consent to processing in respect of information society (primarily, online) services, where that child is over 16 years of age, unless member state law applies a lower age. The DPA reduces the age of consent for these purposes to 13 years for Iceland, cf. Article 10(5).
+Data subject’s rights
+The data subject has the right to be informed about the processing of his personal data, however, Article 17 of the DPA implements certain restrictions from these rights.
+According to Article 17(3) of the DPA, Articles 13(1)-(3), 14(1)-(4) and 15 of the GDPR regarding the data subjects’ rights do not apply if the interests of individuals linked to the personal data, including the interests of the data subject itself, outweigh the interests of the data subject.
+The rights granted to the data subject in Articles 13 – 15 of the GDPR can be restricted with a legislative measure if such a limitation of fundamental rights and freedoms constitutes necessary and proportionate measure in a democratic society to safeguard:
+
+national security
+national defense
+public security
+the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and preventing threats to public security
+other important objectives of general public interest, in particular those of economic or financial interest including monetary, budgetary and taxation matters, public health and social security
+the protection of the data subject, the vital interests of the public or the fundamental rights of others
+the enforcement of civil law claims
+legal obligation of professional secrecy
+
+The right to restrict the data subjects right also applies to personal data in working documents used in preparation for the controllers’ decisions if it has not been distributed to others, to the extent necessary to ensure the preparation of the proceedings.
+Information regarding cases that are being processed by authorities may be exempted from access according to Article 15(1) of the GDPR to the same extent as applies according to the Information Act no. 140/2012 and the Administrative Procedures Act no. 37/1993.

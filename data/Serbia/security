@@ -1,0 +1,10 @@
+Similar to the GDPR, the DP Law introduces burdensome accountability obligations on data controllers, which are required to "demonstrate compliance”. This includes an obligation to all of the following:
+
+Implement, maintain and update appropriate technical, organizational and human resources measures to ensure a level of security appropriate to the risk involved by taking into account state of the art and associated implementation costs etc.
+Have in place certain documentation, such as data protection policies and records of processing activities.
+Implement data protection by design and by default.
+Conduct a data protection impact assessments for those processing operations that are considered higher risk to the rights and freedoms of individuals.
+
+Data protection by design requires the controllers to adopt, as well as maintain and update when needed, appropriate measures (such as pseudonymization, data minimization) which will implement the safeguards necessary for processing. Data protection by default, on the other hand, requires the controllers to adopt measures so that, by default, only the processing which is necessary for the specific purpose will be possible (eg, that, by default, privacy settings on one’s social network profile do not make the data public).Last modified 17 Jan 2022
+				
+			

@@ -1,0 +1,13 @@
+The data collector must obtain the consent of the provider of the information for any transfer of sensitive personal information to any other corporate entity or person in India, or to any other country that ensures the same level of data protection as provided for under the Privacy Rules. However, consent is not necessary for the transfer if it is required for the performance of a lawful contract between the corporate entity (or any person acting on its behalf) and the provider of information or as otherwise specified in the Act.
+A corporate entity may not transfer any sensitive personal information to another person or entity that does not maintain the same level of data protection as required by the Act.
+The contract regulating the data transfer should contain adequate indemnity provisions for a third party breach, should clearly specify the end purposes of the data processing (including who has access to such data) and should specify a mode of transfer that is adequately secured and safe.
+Further, under the Act, it is an offense for any person who has pursuant to a contract gained access to any material containing personal information to disclose that information without the consent of the person concerned, and with the intent to cause or knowing that he is likely to cause wrongful loss or wrongful gain.
+Thus, contracts should also specifically include provisions:
+
+Entitling the data collector to distinguish between ‘personal information’ and ‘sensitive personal information’ that it wishes to collect/process, and&nbsp;
+Representing that the consent of the person(s) concerned has been obtained for collection and disclosure of personal information or sensitive personal information, and outlining the liability of the third party
+
+Data Localization
+India’s central bank, the Reserve Bank of India (RBI) has made it mandatory from October 15, 2018, for all payment system providers and their service providers, intermediaries, third party vendors and other entities in the payment ecosystem to ensure that all data relating to payment systems operated by them are stored in a system only in India. Interestingly, by virtue of this regulation, RBI is seeking storage of all payment system data, which includes the entire payment processing cycle from request to final payout.Last modified 30 Nov 2021
+				
+			
