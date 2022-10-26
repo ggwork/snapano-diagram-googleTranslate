@@ -57,7 +57,7 @@ function translateFinally(){
 
 async function translateAllFile(dirName){
   // 获取所有文件路径
-  const fileList = await utils.getAllFilesByFloderPath(dirName)
+  let fileList = await utils.getAllFilesByFloderPath(dirName)
   fileList = fileList.slice(0,2)
 
   utils.getNextItem(0,fileList,async function(filePath,index){
