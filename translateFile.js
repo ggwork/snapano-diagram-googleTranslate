@@ -37,7 +37,7 @@ function getFileInfo(filePath) {
 
 
 async function translateOneFile(filePath) {
-  console.log('filePath:',filePath)
+  // console.log('filePath:',filePath)
   // console.log('开始翻译')
   let content = fs.readFileSync(filePath)
   content = content.toString()
@@ -64,7 +64,7 @@ function translateFinally(){
 async function translateAllFile(dirName){
   // 获取所有文件路径
   let fileList = await utils.getAllFilesByFloderPath(dirName)
-  fileList = fileList.slice(0,2)
+  // fileList = fileList.slice(0,2)
 
   utils.getNextItem(0,fileList,async function(filePath,index){
     console.log('正在翻译第'+index+'文件')
