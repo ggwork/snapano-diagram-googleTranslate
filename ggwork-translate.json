@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logical-hallway-352208",
+  "private_key_id": "d03174753298d2b923d60aa55ff894e95d5db93d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF4LSC92u7hxJN\ner3H1yp1P4i84sXwB1XC98e1lkvqZMcYrDkqBmrUBtSco7ReyXarPfGojemCE7XL\nIB/nHxStf1ijF44qroc24PooUdNd7FxBrUUGzcu5fAPQMZQlVlvuf8kWp8ZkBX24\nka6YikVn5qLSAbyuzBxl8Uj8a4t751WHOe5g/Qn3LrjXzv7yPbwY5AHl8q1gDKzd\nacjHti57zJnJ4zDyEyhBUQMerkQTplgor6lm0UQNU7jsDbVNVD2853f5hZrsZzlg\ntPzfiHR3dW5OPtz/Z1jWfAadFE0ImnRfKUCZNfxRNZdAq/i7ViVPAvYeycpf/Rqw\nYcosiTf/AgMBAAECggEAGsC1FwnVhm6OEmyYUPbtthlnZsYwJbIQLcJrPUk7LU7/\nvf224tAoTE86Go1levU49pDy5at+GQiKKRLITWqd1JEljjNGlM2w2UIUgDQD5Cxr\nErQW44MaWpMCPvkdAulIl5euO8JmJ6q4YyZLGTOEi7YaaFM0y9srsbqr9/igTJlu\n0azHVYAJc9RZcmjOVRgITwlVPsx8nbe9y7QEKJItMu1K9MO07V+Twu0fouI/u060\nWbSYjZaNfVYI1Xp7kET6Z6pp6BRSNYtIflELQnbsAhk+YL3MO3ieLQ0f5dYwR1sk\n5UZpYxJl2PtJvUOw5jabK9UkO7qMrNug+a5Rpv0J0QKBgQDjKFW3Aty8vthb70uH\nwr3ZIbz+PuYCZDRvAc3en1bCNmp/AcB9qjUOLNmUQbnH/v8dtcMF9OhR24LbX1oj\nsTA4hcmQtfpmUXlAdHw4CbYajhb2Sj0PwWs+ibX5tKU9yaMns0yX74KAnJHOz2NU\nuOA5Qd/BLjp9/3v4AMn4UfHjLwKBgQDfAKRdNWCaTvrs4quEiWMn8ZnaWOOg/t44\n0VfgmzW5PK/XuJ2d8QRsb/FbTYXLiGXEr8XmoO3XUESEK8XtucS+OQsbW1gsY6T5\nlZoEoQ8kL5HphPZu8cVy4PQTyRGaqhJoWjt+OHp+273WYatjxTkqOrENMArYMHoI\nZkGF+VAEMQKBgACN+KeZujA7xwtyahzKvOvqyStVu/oFhJtAxd/lQ7D1sQzeVDn6\nUGbYdS+HeYyjcrv/1ZoOHwMUJh2i/fVYWWXJ7dQMna/iQwmFP0hjva4S6rtvMvb2\n4ewlKeySJFUiSOOv7F/ylb76ouB+YR+z09hP8Nvn4Pytwv+4AMY6bPzBAoGBANnv\nlrJA6Bfl9/Rp0ZXFbtIqm2F4XX2Jl0OP04H+LZLKbE82bVNdqCURgZ7pNEilFFAU\nOCQcQlSabVt+LAEX+96rgN9LdfBrsV75hXvgqxuCIedFulDSl1Sd4+syJbIxY6v4\nAwxnxc8UkYJiEU2AAU3z7fQlb3O4bIqo5IA6FqkBAoGBALGlWn9EfNg+cAUPu8h7\nU+fLoitZ94TUIPKTGAONQ4/MxgsxbgTiWEvM/lxSS0GPe9LgAEs2BGFIipAXDItg\nxQenY7DovTjUxoADZPvv54xJZsRdd8LjbnpzjWqQiEmncz4x3QK9jSn4MUEZEIxL\ncyzGR/OH52ofukUw1pMA+Cww\n-----END PRIVATE KEY-----\n",
+  "client_email": "ggwork-translate@logical-hallway-352208.iam.gserviceaccount.com",
+  "client_id": "102362656496972674771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ggwork-translate%40logical-hallway-352208.iam.gserviceaccount.com"
+}
