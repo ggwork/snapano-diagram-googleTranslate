@@ -47,6 +47,7 @@ async function translateOneFile(filePath) {
   // 文件夹名称  英文-中文
   let fileDir = fileInfo.dirName+'-'+fileDirName_zn
   let fileOutDir = path.join(outputPath, path.basename(fileDir))
+  // 文件统一改成txt文件
   await utils.createDataFilePromise(fileInfo.fileName+'.txt', translatedContent, fileOutDir)
 }
 
