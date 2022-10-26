@@ -49,7 +49,7 @@ function getFileInfo(filePath) {
 async function translateOneFile(filePath) {
   console.log('开始翻译')
   const content = fs.readFileSync(filePath)
-  const translatedContent = await translateWord(content)
+  const translatedContent = await translateWord(content.toString())
   console.log('translatedContent:',translatedContent)
   
   let fileInfo = getFileInfo(filePath)
