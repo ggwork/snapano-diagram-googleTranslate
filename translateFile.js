@@ -22,8 +22,9 @@ async function translateWord(content) {
 
 function getFileInfo(filePath) {
   let fileName = path.basename(filePath)
-  let dirName = path.dirname(filePath)
+  let dirName = path.basename(path.dirname(filePath))
   let fileOutDir = path.join(outputPath, dirName)
+  // console.log('getFileInfo fileOutDir:',fileOutDir)
   // 文件路径、文件名、文件夹路径、输出文件夹路径
   return {
     filePath,
@@ -36,17 +37,22 @@ function getFileInfo(filePath) {
 
 
 async function translateOneFile(filePath) {
+  console.log('filePath:',filePath)
   // console.log('开始翻译')
   let content = fs.readFileSync(filePath)
   content = content.toString()
-  const translatedContent = await translateWord(content)
-  // console.log('translatedContent:',translatedContent)
+  
   
   let fileInfo = getFileInfo(filePath)
+  // console.log('fileInfo:',fileInfo)
   let fileDirName_zn = await translateWord(fileInfo.dirName)
+  // let fileDirName_zn = '翻译'
   // 文件夹名称  英文-中文
   let fileDir = fileInfo.dirName+'-'+fileDirName_zn
   let fileOutDir = path.join(outputPath, fileDir)
+  // console.log('fileOutDir:',fileOutDir)
+  const translatedContent = await translateWord(content)
+  // console.log('translatedContent:',translatedContent)
   // 文件统一改成txt文件
   await utils.createDataFilePromise(fileInfo.fileName+'.html', translatedContent, fileOutDir)
 }
