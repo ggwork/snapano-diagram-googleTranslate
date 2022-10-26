@@ -12,11 +12,4 @@ run/
 *.un~
 typings/
 .nyc_output/
-public/
-public
-/worldFile.zip
-/worldFile
-/cityFile
-/proFile
-/logFile
-/chinaFile
+translateResult/

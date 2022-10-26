@@ -33,34 +33,42 @@ function getFileInfo(filePath) {
   }
 }
 
-// const fileList = await utils.getAllFilesByFloderPath(inputPath)
-// const fileObjList = fileList.map(filePath => {
-//   let fileName = path.basename(filePath)
-//   let dirName = path.dirname(filePath)
-//   let fileOutPath = path.join(outputPath, path.basename(dirName))
-//   return {
-//     filePath,
-//     fileName,
-//     dirName,
-//     fileOutPath
-//   }
-// })
+
 
 async function translateOneFile(filePath) {
-  console.log('开始翻译')
-  const content = fs.readFileSync(filePath)
-  const translatedContent = await translateWord(content.toString())
-  console.log('translatedContent:',translatedContent)
+  // console.log('开始翻译')
+  let content = fs.readFileSync(filePath)
+  content = content.toString().replace('')
+  const translatedContent = await translateWord(content)
+  // console.log('translatedContent:',translatedContent)
   
   let fileInfo = getFileInfo(filePath)
-  await utils.createDataFilePromise(fileInfo.fileName, translatedContent, fileInfo.fileOutDir)
-  // console.log('fileObjList:', fileObjList.slice(0, 2))
-  // console.log('content:', content.toString())
+  let fileDirName_zn = await translateWord(fileInfo.dirName)
+  // 文件夹名称  英文-中文
+  let fileDir = fileInfo.dirName+'-'+fileDirName_zn
+  let fileOutDir = path.join(outputPath, path.basename(fileDir))
+  await utils.createDataFilePromise(fileInfo.fileName+'.txt', translatedContent, fileOutDir)
 }
 
-translateOneFile('./data/Albania/authority')
+function translateFinally(){
+  console.log('全部文件翻译完毕')
+}
 
-// walkSyncFolder('./data');
+async function translateAllFile(dirName){
+  // 获取所有文件路径
+  const fileList = await utils.getAllFilesByFloderPath(dirName)
+
+  utils.getNextItem(0,fileList,async function(filePath,index){
+    console.log('正在翻译第'+index+'文件')
+    await translateOneFile(filePath)
+  },translateFinally)
+}
+
+// translateOneFile('./data/Albania/authority')
+// 翻译data文件夹下的所有文件
+translateAllFile(inputPath)
+
+
 
 
 
